@@ -33,4 +33,11 @@ for file in input/*.txt; do
     ' "$file" >> WHITE_LIST_PROXY_COLLECTION.txt
 done
 
-echo "Done! Results saved to WHITE_LIST_PROXY_COLLECTION.txt"
+echo "Results saved to WHITE_LIST_PROXY_COLLECTION.txt"
+
+echo "Pushing changes to remote repo..."
+git add WHITE_LIST_PROXY_COLLECTION.txt
+git commit -m "WHITE_LIST_PROXY_COLLECTION.txt updated"
+git push
+
+echo "Done!"
