@@ -5,9 +5,15 @@
 #   - Russia
 # 3. Destination: WHITE_LIST_PROXY_COLLECTION.txt
 
-mkdir -p input/
+# Update the source locally
+echo "Checking updates"
+cd ../vpn-configs-for-russia/
+git pull
 
 # Copy required files
+cd -
+mkdir -p input/
+
 cp ../vpn-configs-for-russia/WHITE-CIDR-RU-checked.txt input/
 cp ../vpn-configs-for-russia/WHITE-SNI-RU-all.txt input/
 cp ../vpn-configs-for-russia/Vless-Reality-White-Lists-Rus-Mobile.txt input/
