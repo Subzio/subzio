@@ -5,6 +5,9 @@ on:
     - cron: '0 */2 * * *'  # Every 2 hours
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,6 +17,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
 
     - name: Checkout vpn-configs-for-russia
       uses: actions/checkout@v4
