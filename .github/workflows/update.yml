@@ -1,0 +1,68 @@
+name: Update Proxy List
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Every 2 hours
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout this repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Checkout vpn-configs-for-russia
+      uses: actions/checkout@v4
+      with:
+        repository: igareck/vpn-configs-for-russia
+        path: vpn-configs-for-russia
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Update source repository
+      run: |
+        cd vpn-configs-for-russia
+        git pull origin main
+
+    - name: Create input directory
+      run: mkdir -p input
+
+    - name: Copy required files
+      run: |
+        cp vpn-configs-for-russia/WHITE-CIDR-RU-checked.txt input/
+        cp vpn-configs-for-russia/WHITE-SNI-RU-all.txt input/
+        cp vpn-configs-for-russia/Vless-Reality-White-Lists-Rus-Mobile.txt input/
+        cp vpn-configs-for-russia/Vless-Reality-White-Lists-Rus-Mobile-2.txt input/
+
+    - name: Process and filter files
+      run: |
+        # Clear output file if it exists
+        > WHITE_LIST_PROXY_COLLECTION.txt
+
+        # Process each file and filter content
+        for file in input/*.txt; do
+            echo "Processing $file..."
+            awk '
+            /Russia/ { next }                                          # Skip lines with Russia (Our Primary Goal!)
+            /type=tcp/ && /sec(urity|ure)=none/ { next }               # Skip type=tcp + security=none (VULNERABLE), order-agnostic
+            /sec(urity|ure)=none/ && !/type=xhttp/ { next }            # Skip secure=none without type=xhttp
+            { print }                                                  # Output valid lines
+            ' "$file" >> WHITE_LIST_PROXY_COLLECTION.txt
+        done
+
+        echo "Results saved to WHITE_LIST_PROXY_COLLECTION.txt"
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add WHITE_LIST_PROXY_COLLECTION.txt
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update WHITE_LIST_PROXY_COLLECTION.txt"
+          git push
+        fi
