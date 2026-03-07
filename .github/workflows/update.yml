@@ -2,7 +2,7 @@ name: Update Proxy List
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Every 2 hours
+    - cron: '12 */5 * * *'  # Every 5 hours
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
