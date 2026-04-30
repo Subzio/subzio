@@ -51,6 +51,7 @@ jobs:
             echo "Processing $file..."
             awk '
             /Russia/ { next }                                          # Skip lines with Russia (Our Primary Goal!)
+            /xtls-rprx-vision-udp443/ { next }                          # Skip malformed generated links
             /type=tcp/ && /sec(urity|ure)=none/ { next }               # Skip type=tcp + security=none (VULNERABLE), order-agnostic
             /sec(urity|ure)=none/ && !/type=xhttp/ { next }            # Skip secure=none without type=xhttp
             { print }                                                  # Output valid lines
