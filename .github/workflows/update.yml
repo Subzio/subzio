@@ -50,7 +50,6 @@ jobs:
         for file in input/*.txt; do
             echo "Processing $file..."
             awk '
-            /Russia/ { next }                                          # Skip lines with Russia (Our Primary Goal!)
             /xtls-rprx-vision-udp443/ { next }                          # Skip malformed generated links
             /xmux/ { next }                                            # Skip usually malformed xmux param
             /extra/ { next }
