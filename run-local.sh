@@ -48,4 +48,7 @@ for file in input/*.txt; do
   ' "$file" >> WHITE_LIST_PROXY_COLLECTION.txt
 done
 
-echo "Results saved to WHITE_LIST_PROXY_COLLECTION.txt"
+awk '!seen[$0]++' WHITE_LIST_PROXY_COLLECTION.txt > WHITE_LIST_PROXY_COLLECTION.tmp || true
+mv WHITE_LIST_PROXY_COLLECTION.tmp WHITE_LIST_PROXY_COLLECTION.txt || true
+
+echo "Results saved to WHITE_LIST_PROXY_COLLECTION.txt (duplicates removed)"
