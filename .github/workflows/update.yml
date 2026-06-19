@@ -12,6 +12,12 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
+    env:
+      # Each line: owner/repo|local-path|file1,file2,...
+      # Edit this list to add/remove repositories and their files.
+      SOURCES: |
+        igareck/vpn-configs-for-russia|vpn-configs-for-russia|WHITE-CIDR-RU-checked.txt,WHITE-SNI-RU-all.txt,Vless-Reality-White-Lists-Rus-Mobile.txt,Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
     steps:
     - name: Checkout this repository
       uses: actions/checkout@v4
@@ -19,27 +25,47 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         persist-credentials: true
 
-    - name: Checkout vpn-configs-for-russia
-      uses: actions/checkout@v4
-      with:
-        repository: igareck/vpn-configs-for-russia
-        path: vpn-configs-for-russia
-        token: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Update source repository
+    - name: Checkout and update all source repositories
       run: |
-        cd vpn-configs-for-russia
-        git pull origin main
+        mkdir -p input
 
-    - name: Create input directory
-      run: mkdir -p input
+        # Loop through each configured source line
+        while IFS= read -r line || [ -n "$line" ]; do
+          repo=$(echo "$line" | cut -d'|' -f1)
+          path=$(echo "$line" | cut -d'|' -f2)
+          files=$(echo "$line" | cut -d'|' -f3)
 
-    - name: Copy required files
-      run: |
-        cp vpn-configs-for-russia/WHITE-CIDR-RU-checked.txt input/
-        cp vpn-configs-for-russia/WHITE-SNI-RU-all.txt input/
-        cp vpn-configs-for-russia/Vless-Reality-White-Lists-Rus-Mobile.txt input/
-        cp vpn-configs-for-russia/Vless-Reality-White-Lists-Rus-Mobile-2.txt input/
+          if [ -z "$repo" ] || [ -z "$path" ]; then
+            echo "Skipping invalid line: $line"
+            continue
+          fi
+
+          if [ -d "$path" ]; then
+            echo "Updating existing $path"
+            cd "$path"
+            git pull origin main || true
+            cd - >/dev/null
+          else
+            echo "Cloning $repo into $path"
+            git clone --depth 1 "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${repo}.git" "$path" || true
+          fi
+
+          # Copy listed files (comma-separated) to input/ if they exist
+          IFS=',' read -ra filearr <<< "$files"
+          for f in "${filearr[@]}"; do
+            if [ -z "$f" ]; then
+              continue
+            fi
+            src="$path/$f"
+            if [ -f "$src" ]; then
+              cp "$src" input/
+              echo "Copied $src"
+            else
+              echo "Warning: $src not found"
+            fi
+          done
+
+        done <<< "${{ env.SOURCES }}"
 
     - name: Process and filter files
       run: |
