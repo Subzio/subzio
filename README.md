@@ -1,53 +1,10 @@
-# Подписка для мобильного интернета 
+# Free VPN Keys for Russian mobile internet (LTE/4G)
 
-## 🎯 Что это?
+- WHITE_LIST_PROXY_COLLECTION.txt - default list
 
-`./script.sh` собирает и фильтрует VLESS-прокси конфигурации из репозитория [vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia), создавая список прокси-серверов для работы с OpenAI, Gemini, Microsoft, Github и другими сервисами, которые не работают напрямую.
+## TODO
+- Add more `Hysteria` & `xhttp` to `source-list.txt`.
+- Add filters for `Hysteria` & `xhttp`, leaving non-related protocols behind
 
-## ⚠️ Важно
-
-Эти прокси-серверы оптимизированы для мобильных сетей. Подключение через домашний или корпоративный интернет может затруднить доступ для тех, кому эти серверы действительно необходимы.
-
-## 🧻 Как пользоваться
-
-Добавить эту ссылку как подписку в клиентское приложение:
-```
-https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/WHITE_LIST_PROXY_COLLECTION.txt
-```
-
-## ⚙️ Как это работает?
-
-Скрипт копирует txt-файлы из исходного репозитория.
-
-Удаляются строки с `Russia` — избегаем российских серверов.
-
-Конфигурации сохраняются в `WHITE_LIST_PROXY_COLLECTION.txt`
-
-## 🚀 Запуск
-
-```bash
-bash ./script.sh
-```
-
-Запуск по расписанию локально через `crontab -e`:
-```bash
-0 */2 * * * cd /<full-path-to-project>/subzio && bash ./script.sh
-```
-
-## TBD v2
-
-### Проверка доступности различных сервисов
-
-Для начала необходимы Gemini, NotebookLM, Github Copilot, Microsoft Copilot. Список будет динамическим и будет дополняться.
-
-### Сортировка по протоколу
-
-Задача в том, чтобы отсортировать протоколы по файлам.
-
-- Отсортированная коллекция находится в папке by_proto/
-- Файлы в формате txt, каждый файл содержит свой тип протокола
-- Примеры (vless|trojan|hy2).txt
-
-
-
-
+## Contribution
+You may suggest a source by sending a pull request.
