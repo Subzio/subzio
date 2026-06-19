@@ -20,6 +20,21 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         persist-credentials: true
+        fetch-depth: 0
+
+    - name: Sync with remote main
+      run: |
+        set -euo pipefail
+        # Fetch latest main and reset working tree to match remote
+        git fetch --prune origin main
+        git checkout --force main || git checkout -B main
+        git reset --hard origin/main
+
+    - name: Sync with remote main
+      run: |
+        # Ensure workspace matches the current remote main before generating files
+        git fetch --prune origin main
+        git reset --hard origin/main
 
     - name: Fetch URL sources into input/
       run: |
@@ -82,5 +97,17 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update WHITE_LIST_PROXY_COLLECTION.txt"
-          git push
+
+          # Attempt push with simple retry: on failure fetch+merge (prefer remote) and retry
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt"
+              break
+            else
+              echo "Push failed on attempt $attempt, fetching and merging remote..."
+              git fetch origin main
+              git merge --no-edit -X theirs origin/main || true
+              sleep 1
+            fi
+          done
         fi
