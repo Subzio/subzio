@@ -12,11 +12,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
-    env:
-      # Each line: owner/repo|local-path|file1,file2,...
-      # Edit this list to add/remove repositories and their files.
-      SOURCES: |
-        igareck/vpn-configs-for-russia|vpn-configs-for-russia|WHITE-CIDR-RU-checked.txt,WHITE-SNI-RU-all.txt,Vless-Reality-White-Lists-Rus-Mobile.txt,Vless-Reality-White-Lists-Rus-Mobile-2.txt
+    # Sources are read from source-list.txt in the repository (ignore lines starting with '#')
 
     steps:
     - name: Checkout this repository
@@ -25,47 +21,33 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         persist-credentials: true
 
-    - name: Checkout and update all source repositories
+    - name: Fetch URL sources into input/
       run: |
+        set -euo pipefail
         mkdir -p input
 
-        # Loop through each configured source line
-        while IFS= read -r line || [ -n "$line" ]; do
-          repo=$(echo "$line" | cut -d'|' -f1)
-          path=$(echo "$line" | cut -d'|' -f2)
-          files=$(echo "$line" | cut -d'|' -f3)
+        # Read non-comment lines from `source-list.txt`
+        echo "Using source-list.txt"
+        mapfile -t lines < <(grep -E '^[[:space:]]*[^#[:space:]]' source-list.txt || true)
 
-          if [ -z "$repo" ] || [ -z "$path" ]; then
-            echo "Skipping invalid line: $line"
+        idx=0
+        for url in "${lines[@]}"; do
+          url=$(echo "$url" | tr -d '\r' | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//')
+          if [ -z "$url" ]; then
             continue
           fi
 
-          if [ -d "$path" ]; then
-            echo "Updating existing $path"
-            cd "$path"
-            git pull origin main || true
-            cd - >/dev/null
+          idx=$((idx+1))
+          out="input/${idx}.txt"
+
+          echo "Downloading $url -> $out"
+          if curl -fsSL "$url" -o "$out"; then
+            echo "Saved $out"
           else
-            echo "Cloning $repo into $path"
-            git clone --depth 1 "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${repo}.git" "$path" || true
+            echo "Warning: failed to download $url"
+            rm -f "$out" || true
           fi
-
-          # Copy listed files (comma-separated) to input/ if they exist
-          IFS=',' read -ra filearr <<< "$files"
-          for f in "${filearr[@]}"; do
-            if [ -z "$f" ]; then
-              continue
-            fi
-            src="$path/$f"
-            if [ -f "$src" ]; then
-              cp "$src" input/
-              echo "Copied $src"
-            else
-              echo "Warning: $src not found"
-            fi
-          done
-
-        done <<< "${{ env.SOURCES }}"
+        done
 
     - name: Process and filter files
       run: |
