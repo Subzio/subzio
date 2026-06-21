@@ -2,6 +2,9 @@
 
 - WHITE_LIST_PROXY_COLLECTION.txt - default list
 
+## Features
+- The list has non-Russian servers to provide an access to AI services
+
 ## TODO
 - Add more `Hysteria` & `xhttp` to `source-list.txt`.
 - Add filters for `Hysteria` & `xhttp`, leaving non-related protocols behind
