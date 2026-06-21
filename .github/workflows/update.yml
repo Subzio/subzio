@@ -74,7 +74,7 @@ jobs:
             echo "Processing $file..."
             awk '
             /xtls-rprx-vision-udp443/ { next }                          # Skip malformed generated links
-            /Russia|RU|🇷🇺|Россия/                                      # Filter our Russian servers by a key name
+            /Russia|RU|🇷🇺|Россия/ { next }                             # Filter our Russian servers by a key name
             /xmux/ { next }                                            # Skip usually malformed xmux param
             /extra/ { next }
             /type=tcp/ && /sec(urity|ure)=none/ { next }               # Skip type=tcp + security=none (VULNERABLE), order-agnostic
