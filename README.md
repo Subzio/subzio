@@ -7,7 +7,10 @@
 
 ## TODO
 - Add more `Hysteria` & `xhttp` to `source-list.txt`.
-- Add filters for `Hysteria` & `xhttp`, leaving non-related protocols behind
+- Add output files for `Hysteria`, `xhttp`, leaving non-related protocols behind
+- Filter Russian servers by GeoIP DB
+- Add `act` to run the workflow locally
+
 
 ## Contribution
 You may suggest a source by sending a pull request.
