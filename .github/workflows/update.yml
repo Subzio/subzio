@@ -89,15 +89,21 @@ jobs:
 
         echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)
 
+    - name: Extract hysteria2 entries
+      run: |
+        set -euo pipefail
+        awk 'BEGIN { IGNORECASE = 0 } /^hysteria2:\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > HYSTERIA2.txt
+        echo "Extracted hysteria2 lines:" $(wc -l < HYSTERIA2.txt)
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add WHITE_LIST_PROXY_COLLECTION.txt
+        git add WHITE_LIST_PROXY_COLLECTION.txt HYSTERIA2.txt
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update WHITE_LIST_PROXY_COLLECTION.txt"
+          git commit -m "Update the lists"
 
           # Attempt push with simple retry: on failure fetch+merge (prefer remote) and retry
           for attempt in 1 2 3; do
