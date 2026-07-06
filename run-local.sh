@@ -53,7 +53,7 @@ done
 awk '!seen[$0]++' WHITE_LIST_PROXY_COLLECTION.txt > WHITE_LIST_PROXY_COLLECTION.tmp || true
 mv WHITE_LIST_PROXY_COLLECTION.tmp WHITE_LIST_PROXY_COLLECTION.txt || true
 
-awk 'BEGIN { IGNORECASE = 0 } /^hysteria2:\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > HYSTERIA2.txt
+awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > HYSTERIA2.txt
 
 echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)
 
