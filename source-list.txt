@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLES
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 
 # other (non Russian)
-https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub1.txt
+#https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub1.txt
