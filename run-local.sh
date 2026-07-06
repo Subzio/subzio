@@ -40,6 +40,7 @@ done
 for file in input/*.txt; do
   echo "Processing $file..."
   awk '
+    /^(ss|socks):\/\// { next }
     /xtls-rprx-vision-udp443/ { next }
     /Russia|RU|%F0%9F%87%B7%F0%9F%87%BA%20|Россия/ { next }
     /xmux/ { next }
