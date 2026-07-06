@@ -1,6 +1,6 @@
-# Free VPN Keys for Russian mobile internet (LTE/4G)
+# Free Proxy Keys for Russian mobile internet (LTE/4G)
 
-- WHITE_LIST_PROXY_COLLECTION.txt - default filtered list
+- WHITE_LIST_PROXY_COLLECTION.txt - default list, has all entries
 - HYSTERIA2.txt - extracted `hysteria2://` proxy entries
 
 ## Features
@@ -8,9 +8,8 @@
 - `HYSTERIA2.txt` contains only `hysteria2://` links extracted from the default list
 
 ## TODO
-- Add more `Hysteria` & `xhttp` to `source-list.txt`.
+- Add `xhttp` list.
 - Add output files for additional proxy protocols
-- Filter Russian servers by GeoIP DB
 - Add a better local run helper or script wrapper
 
 ## Local usage
