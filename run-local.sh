@@ -6,6 +6,7 @@ set -euo pipefail
 
 SOURCE_FILE=${1:-source-list.txt}
 
+rm -rf input/*
 mkdir -p input
 
 if [ ! -f "$SOURCE_FILE" ]; then

@@ -33,6 +33,7 @@ jobs:
     - name: Fetch URL sources into input/
       run: |
         set -euo pipefail
+        rm -rf input/*
         mkdir -p input
 
         # Read non-comment lines from `source-list.txt`
