@@ -68,6 +68,7 @@ jobs:
         for file in input/*.txt; do
             echo "Processing $file..."
             awk '
+            /ss:\/\// { next }                                         # remove SS
             /xtls-rprx-vision-udp443/ { next }                          # Skip malformed generated links
             /Russia|RU|%F0%9F%87%B7%F0%9F%87%BA%20|Россия/ { next }                             # Filter our Russian servers by a key name
             /xmux/ { next }                                            # Skip usually malformed xmux param
