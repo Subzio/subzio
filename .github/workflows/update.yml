@@ -30,12 +30,6 @@ jobs:
         git checkout --force main || git checkout -B main
         git reset --hard origin/main
 
-    - name: Sync with remote main
-      run: |
-        # Ensure workspace matches the current remote main before generating files
-        git fetch --prune origin main
-        git reset --hard origin/main
-
     - name: Fetch URL sources into input/
       run: |
         set -euo pipefail
