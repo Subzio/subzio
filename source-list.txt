@@ -1,13 +1,13 @@
 # https://github.com/zieng2/wl
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 
-# https://github.com/whoahaow/rjsxrd
-#https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
-
 # https://github.com/igareck/vpn-configs-for-russia#-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt
+
+# https://github.com/whoahaow/rjsxrd
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 
 # other (non Russian)
 https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub1.txt
