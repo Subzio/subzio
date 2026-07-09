@@ -1,7 +1,0 @@
-hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:5443/?sni=france-2.hysteria.ltd#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:5443?sni=france-2.hysteria.ltd&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:6443?sni=france-2.hysteria.ltd&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@unic.hysteria.ltd:5443?headerType=none&encryption=none&sni=unic.hysteria.ltd&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@unic.hysteria.ltd:5443?sni=unic.hysteria.ltd&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@united.hysteria.ltd:5443?insecure=0&sni=united.hysteria.ltd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
-hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@united.hysteria.ltd:5443?sni=united.hysteria.ltd&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
