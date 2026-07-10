@@ -1,11 +1,5 @@
-hysteria2://558e17d8-00fd-46d9-bc5c-1e3bdf73034f@cz2.freeinternat.com:443?sni=cz2.freeinternat.com#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Ma%C5%A1%C5%A5ov%20%7C%20%5BBL%5D
-hysteria2://6f394ef6-5350-4399-abde-060e5b8a1696@cz2.freeinternat.com:443?sni=cz2.freeinternat.com#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Ma%C5%A1%C5%A5ov%20%7C%20%5BBL%5D
-hysteria2://558e17d8-00fd-46d9-bc5c-1e3bdf73034f@fin.freeinternat.com:443?sni=fin.freeinternat.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-hysteria2://6f394ef6-5350-4399-abde-060e5b8a1696@fin.freeinternat.com:443?sni=fin.freeinternat.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?security=tls&insecure=0&sni=argg2.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg3.auragg.org:443?security=tls&insecure=0&sni=argg3.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443?sni=argg2.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg3.auragg.org:443?sni=argg3.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://558e17d8-00fd-46d9-bc5c-1e3bdf73034f@lit2.freeinternat.com:443?sni=lit2.freeinternat.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
-hysteria2://6f394ef6-5350-4399-abde-060e5b8a1696@lit2.freeinternat.com:443?sni=lit2.freeinternat.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
 hysteria2://basenato:z8WXfbvuauhcyt5J8mdD@naive.ghostshell.eu.org:443?sni=naive.ghostshell.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-hysteria2://558e17d8-00fd-46d9-bc5c-1e3bdf73034f@nl2.freeinternat.com:443?sni=nl2.freeinternat.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://6f394ef6-5350-4399-abde-060e5b8a1696@nl2.freeinternat.com:443?sni=nl2.freeinternat.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
