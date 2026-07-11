@@ -1,8 +1,8 @@
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?sni=argg2.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg3.auragg.org:443?sni=argg3.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443?sni=argg2.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg3.auragg.org:443?sni=argg3.auragg.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@unic.hysteria.ltd:5443?headerType=none&encryption=none&sni=unic.hysteria.ltd&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@unic.hysteria.ltd:5443?sni=unic.hysteria.ltd&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://basenato:z8WXfbvuauhcyt5J8mdD@naive.ghostshell.eu.org:443?sni=naive.ghostshell.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@united.hysteria.ltd:5443?sni=united.hysteria.ltd&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
-hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&alpn=h3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?security=tls&insecure=0&sni=sh02.auragg.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@united.hysteria.ltd:5443?headerType=none&encryption=none&sni=united.hysteria.ltd&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
+hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&insecure=0&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
