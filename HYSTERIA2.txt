@@ -1,3 +1,1 @@
-hysteria2://1e06c388-d31c-420e-916a-94a990648e34@unic.hysteria.ltd:5443?insecure=0&sni=unic.hysteria.ltd&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://1e06c388-d31c-420e-916a-94a990648e34@unic.hysteria.ltd:5443?sni=unic.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?insecure=0&sni=sh02.auragg.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+hysteria2://basenato:z8WXfbvuauhcyt5J8mdD@naive.ghostshell.eu.org:443?__rand=f74dc15f&_t=f4286e83&sni=naive.ghostshell.eu.org&burmalda=1c4b9a87#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
