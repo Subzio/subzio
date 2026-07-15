@@ -1,6 +1,2 @@
-hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
-hysteria2://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:8443?insecure=0&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
-hysteria2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@fl02.auragg.org:8443/?sni=fl02.auragg.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-hysteria2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@pl02.auragg.org:443/?sni=pl02.auragg.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&alpn=h3&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
-hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&insecure=0&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&obfs-password=48139d20-931e-4e2b-83f5-8ea97d226c18#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
