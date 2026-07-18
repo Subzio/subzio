@@ -1,23 +1,39 @@
-# Free Proxy Keys for Russian mobile internet (LTE/4G)
+# Бесплатные ключи прокси для российского мобильного интернета (LTE/4G)
 
-- WHITE_LIST_PROXY_COLLECTION.txt - default list, has all entries
-- HYSTERIA2.txt - extracted `hysteria2://` proxy entries
+English version: [README.en.md](README.en.md)
 
-## Features
-- The lists have non-Russian servers to provide an access to AI services
-- `HYSTERIA2.txt` contains only `hysteria2://` links extracted from the default list
+Этот репозиторий хранит набор списков, связанных с прокси, и локальный помощник для их сбора.
 
-## TODO
-- Add `xhttp` list.
-- Add output files for additional proxy protocols
-- Add a better local run helper or script wrapper
+## Содержимое репозитория
+- WHITE_LIST_PROXY_COLLECTION.txt — основной список прокси с текущим полным набором записей
+- HYSTERIA2.txt — извлечённые записи вида `hysteria2://`
+- source-list.txt — список источников
+- input/ — пример входных файлов, используемых для локальных проверок
+- test-Hysteria-worflow.txt — заметки и тестовые данные для workflow Hysteria
 
-## Local usage
-Run the local workflow simulation with:
+## Возможности
+- В списках присутствуют не-российские серверы для доступа к AI-сервисам
+- `HYSTERIA2.txt` содержит только ссылки `hysteria2://`, извлечённые из основного списка
+- Доступен локальный сценарий для запуска симуляции workflow
+
+## Локальное использование
+Запустите симуляцию workflow локально:
 
 ```bash
 ./run-local.sh
 ```
 
-## Contribution
-You may suggest a source by sending a pull request.
+## Последние обновления
+Обновлено 2026-07-18 по последним локальным коммитам:
+- обновлены списки прокси и сохранены предыдущие записи HYSTERIA2
+- добавлен отдельный тестовый список для валидации workflow
+- обновлён экспорт HYSTERIA2 и локальный helper-скрипт
+- добавлены метки времени к записям HYSTERIA2 для удобства отслеживания
+
+## TODO
+- Добавить список `xhttp`
+- Добавить выходные файлы для дополнительных протоколов прокси
+- Улучшить локальный helper-скрипт
+
+## Участие
+Вы можете предложить источник через pull request.
