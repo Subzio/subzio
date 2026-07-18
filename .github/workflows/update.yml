@@ -89,12 +89,20 @@ jobs:
       run: |
         set -euo pipefail
         tmp=$(mktemp)
-        awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$tmp"
+        new=$(mktemp)
+        awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$new"
+        if [ -s "$new" ]; then
+          now=$(date '+%Y-%m-%d %H:%M:%S')
+          count=$(wc -l < "$new" | tr -d '[:space:]')
+          printf '# %s (%s keys added)\n' "$now" "$count" > "$tmp"
+          cat "$new" >> "$tmp"
+          printf '\n' >> "$tmp"
+        fi
         if [ -f HYSTERIA2.txt ]; then
           cat HYSTERIA2.txt >> "$tmp"
         fi
         awk '!seen[$0]++' "$tmp" > HYSTERIA2.txt || true
-        rm -f "$tmp"
+        rm -f "$tmp" "$new"
         echo "Extracted hysteria2 lines:" $(wc -l < HYSTERIA2.txt)
 
     - name: Commit and push changes
