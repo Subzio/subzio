@@ -11,6 +11,3 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/b
 
 # other (non Russian)
 #https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub1.txt
-
-# for testing
-https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/test-Hysteria-worflow.txt
