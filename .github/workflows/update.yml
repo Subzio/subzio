@@ -88,7 +88,13 @@ jobs:
     - name: Extract hysteria2 entries
       run: |
         set -euo pipefail
-        awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > HYSTERIA2.txt
+        tmp=$(mktemp)
+        awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$tmp"
+        if [ -f HYSTERIA2.txt ]; then
+          cat HYSTERIA2.txt >> "$tmp"
+        fi
+        awk '!seen[$0]++' "$tmp" > HYSTERIA2.txt || true
+        rm -f "$tmp"
         echo "Extracted hysteria2 lines:" $(wc -l < HYSTERIA2.txt)
 
     - name: Commit and push changes
