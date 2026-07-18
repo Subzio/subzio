@@ -54,7 +54,21 @@ done
 awk '!seen[$0]++' WHITE_LIST_PROXY_COLLECTION.txt > WHITE_LIST_PROXY_COLLECTION.tmp || true
 mv WHITE_LIST_PROXY_COLLECTION.tmp WHITE_LIST_PROXY_COLLECTION.txt || true
 
-awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > HYSTERIA2.txt
+tmp=$(mktemp)
+new=$(mktemp)
+awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$new"
+if [ -s "$new" ]; then
+  now=$(date '+%Y-%m-%d %H:%M:%S')
+  count=$(wc -l < "$new" | tr -d '[:space:]')
+  printf '# %s (%s keys added)\n' "$now" "$count" > "$tmp"
+  cat "$new" >> "$tmp"
+  printf '\n' >> "$tmp"
+fi
+if [ -f HYSTERIA2.txt ]; then
+  cat HYSTERIA2.txt >> "$tmp"
+fi
+awk '!seen[$0]++' "$tmp" > HYSTERIA2.txt || true
+rm -f "$tmp" "$new"
 
 echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)
 
