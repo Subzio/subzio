@@ -1,4 +1,4 @@
-# 2026-08-05 21:31:25 (37 keys added)
+# 2026-08-05 23:17:03 (37 keys added)
 hysteria2://d1224950-ffab-4b9a-8696-431b40a6cfbd@bel-03.node.lumixnet.com:443/?sni=bel-03.node.lumixnet.com#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%2C%20Brussels%20%28Brussels%20Capital%29%20%7C%20%5BBL%5D
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?security=tls&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
@@ -26,10 +26,10 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa10.api3-max.ru:443?sni=wopa
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?sni=wopa3.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%231
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%232
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443?sni=wopa6.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%235
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@143.246.136.159:443?sni=taga2.api3-max.ru#%F0%9F%A4%9688%40oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443?sni=wopa9.api3-max.ru&insecure=0#US   HYSTERIA2-TCP-NTLS - Noah Kolossa  206.245.166.37
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443?sni=wopa4.api3-max.ru&insecure=0#GB   HYSTERIA2-TCP-NTLS - I-servers Ltd  45.43.75.102
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru&insecure=0#GB   HYSTERIA2-TCP-NTLS - YottaSrc  107.181.134.90
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@143.246.136.159:443?sni=taga2.api3-max.ru&insecure=0#US   HYSTERIA2-TCP-NTLS  143.246.136.159
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?insecure=0#GB   HYSTERIA2-TCP-NTLS - YottaSrc  107.181.134.93
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga1.api3-max.ru:443?sni=taga1.api3-max.ru#
@@ -37,6 +37,8 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?sni=taga5
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?sni=wopa7.api3-max.ru#@OutlineReleasedKey
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443?sni=wwopa2.api3-max.ru&insecure=0#@OutlineReleasedKey
 
+# 2026-08-05 21:31:25 (37 keys added)
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@143.246.136.159:443?sni=taga2.api3-max.ru#%F0%9F%A4%9688%40oneclickvpnkeys
 # 2026-08-05 19:52:52 (33 keys added)
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?sni=de-two.quiet-rogue.site#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@172.245.233.237:8080?sni=hopp-us.yyuyy.com#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Mexico%20City%20%7C%20%5BBL%5D
