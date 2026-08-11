@@ -1,18 +1,19 @@
-# 2026-08-11 15:15:08 (11 keys added)
-hysteria2://9b82d376-0586-450d-8d20-6a996330d984@194.55.239.127:20443?sni=hy.quattro-tech.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://Kaba_J9EW524x_Nx9gh5_Mzqkl9r_Se260@147.90.14.165:8443?sni=key-very-far.mysynology.net#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#%E5%9C%9F%E8%80%B3%E5%85%B6
+# 2026-08-11 17:11:07 (9 keys added)
 hysteria2://8f7eeebd-3378-4bf1-b80a-cb2a393a031d@176.124.222.180:8443?sni=j47lq.pleiades.codes#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://9b82d376-0586-450d-8d20-6a996330d984@194.55.239.127:20443?sni=hy.quattro-tech.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#%E5%9C%9F%E8%80%B3%E5%85%B6
 hysteria2://9501f3d6-483f-45c1-ab2c-33266520cd5c@tn.tmn141246.ru:443?sni=live.ok.ru#0126 | 🌐 Unknown | 🏳️ SNI-OK | HYSTERIA2 | TG: @YoutubeUnBlockRu
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?sni=vk.com&type=tcp&upmbps=10&downmbps=50#0598 | 🇨🇦 Canada | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443/?sni=vk.com#1173 | 🇷🇴 Romania | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?sni=vk.com&type=tcp&upmbps=10&downmbps=50#1225 | 🇺🇸 USA | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443/?sni=vk.com#2045 | 🇳🇱 Netherlands | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 
+# 2026-08-11 15:15:08 (11 keys added)
+hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://Kaba_J9EW524x_Nx9gh5_Mzqkl9r_Se260@147.90.14.165:8443?sni=key-very-far.mysynology.net#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 # 2026-08-11 13:40:40 (10 keys added)
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 hysteria2://2cd60abb-656a-4157-a35a-ee570e3543a4@tn.tmn141246.ru:443?sni=live.ok.ru#0347 | 🌐 Unknown | 🏳️ SNI-OK | HYSTERIA2 | TG: @YoutubeUnBlockRu
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443/?sni=vk.com#1031 | 🇷🇴 Romania | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?sni=vk.com&type=tcp&upmbps=10&downmbps=50#1078 | 🇺🇸 USA | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
