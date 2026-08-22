@@ -1,3 +1,9 @@
+# 2026-08-22 14:36:15 (4 keys added)
+hysteria2://57a9cf7d-bb6c-414e-97be-1985f7123c61@errorgr.zapret-tg.ru:443?sni=errorgr.zapret-tg.ru&fm=%7B#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+hysteria2://628769f2e4@srv-8740ec.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.78:8443/?sni=hopp-netherland-new.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=vk.com&type=tcp&upmbps=10&downmbps=50#
+
 # 2026-08-22 12:58:50 (34 keys added)
 hysteria2://3ec082d54e@srv-40a0eb.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
 hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%20%7C%20%5BBL%5D
@@ -15,7 +21,6 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de87.mechvpn.online:443?sni=de8
 hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge1.whit3.net:443?sni=ndge1.whit3.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge4.whit3.net:443?sni=ndge4.whit3.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@newos.klzvezdi.ru:9443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-hysteria2://628769f2e4@srv-8740ec.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
 hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443?sni=grape-beer.yyuyy.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@simple-route-pl.whit3.net:443?sni=simple-route-pl.whit3.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20O%C5%BCar%C3%B3w%20%7C%20%5BBL%5D
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443?sni=hopp-legend-se.roxa.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
@@ -32,8 +37,6 @@ hysteria2://d4f8d5e26b@srv-a04472.21freedom.net:11592?security=tls&fp=chrome&alp
 hysteria2://49f8bb8047@srv-12c1e0.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Seattle%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-wien.unlimited-access.ru:8443?sni=hy2-wien.unlimited-access.ru&fp=chrome&alpn=h3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20%5BBL%5D
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-wien.unlimited-access.ru:8443#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
-hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=vk.com&type=tcp&upmbps=10&downmbps=50#
-
 # 2026-08-22 10:38:11 (34 keys added)
 # 2026-08-22 08:46:10 (35 keys added)
 hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
