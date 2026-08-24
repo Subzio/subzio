@@ -1,4 +1,4 @@
-# 2026-08-24 03:15:21 (34 keys added)
+# 2026-08-24 04:59:30 (28 keys added)
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 hysteria2://e5gqbtu97umt992j@185.230.44.170:9443#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk.yyuyy.com#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Lijia%20%7C%20%5BBL%5D
@@ -13,7 +13,22 @@ hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora1.api3-max.ru:443?sni=gora1
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora4.api3-max.ru:443?sni=gora4.api3-max.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Liberty%20Lake%20%7C%20%5BBL%5D
 hysteria2://e5gqbtu97umt992j@185.230.44.170:9443?sni=185.230.44.170#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443?sni=dora3.api3-max.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora1.api3-max.ru:443?sni=dora1.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7GB_86%7C312KB%2Fs%7CA004-260618
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=vk.com&type=tcp&upmbps=10&downmbps=50#
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora2.api3-max.ru:443?sni=dora2.api3-max.ru#1004 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?sni=dora4.api3-max.ru#1280 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?sni=pov2.api3-max.ru#1958 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#2352 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora1.api3-max.ru:443?sni=gora1.api3-max.ru#3057 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?sni=pov3.api3-max.ru#3622 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443?sni=dora3.api3-max.ru#3811 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov10.api3-max.ru:443?sni=pov10.api3-max.ru#4016 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora3.api3-max.ru:443?sni=gora3.api3-max.ru#4614 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora4.api3-max.ru:443?sni=gora4.api3-max.ru#4697 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora2.api3-max.ru:443?sni=gora2.api3-max.ru#4722 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?sni=gora5.api3-max.ru#4935 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
+
+# 2026-08-24 03:15:21 (34 keys added)
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov8.api3-max.ru:443?sni=pov8.api3-max.ru#0701 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora2.api3-max.ru:443?sni=dora2.api3-max.ru#1372 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov7.api3-max.ru:443?sni=pov7.api3-max.ru#1608 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
@@ -33,7 +48,6 @@ hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora2.api3-max.ru:443?sni=gora2
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov6.api3-max.ru:443?sni=pov6.api3-max.ru#6230 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?sni=gora5.api3-max.ru#6436 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov5.api3-max.ru:443?sni=pov5.api3-max.ru#7149 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
-
 # 2026-08-24 01:56:06 (34 keys added)
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov8.api3-max.ru:443?sni=pov8.api3-max.ru#0673 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora2.api3-max.ru:443?sni=dora2.api3-max.ru#1307 | 🌐 Unknown | 🏳️ SNI-MAX | HYSTERIA2 | TG: @YoutubeUnBlockRu
