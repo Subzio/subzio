@@ -23,6 +23,7 @@ English version: [README.en.md](README.en.md)
 
 ## TODO
 - Добавить списоки для `xhttp`, `trojan`
+- Сгенерировать XRAY Json с авто-балансировщиком из `WHITE_LIST_PROXY_COLLECTION.txt`
 
 ## Участие
 Вы можете предложить источник через pull request.
