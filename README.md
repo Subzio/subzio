@@ -6,7 +6,7 @@ English version: [README.en.md](README.en.md)
 
 ## Содержимое репозитория
 - `WHITE_LIST_PROXY_COLLECTION.txt` — основной список прокси с текущим полным набором записей
-- `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`
+- `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
 - `source-list.txt` — список источников
 - `input/` — временная папка
 
