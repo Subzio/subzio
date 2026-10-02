@@ -1,11 +1,16 @@
-# 2026-10-02 05:33:11 (6 keys added)
+# 2026-10-02 12:30:03 (5 keys added)
+hysteria2://d0d5de17-12b8-4b0d-a2c7-b969eead58ec@188.225.18.208:9443?sni=appstatic.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://d0d5de17-12b8-4b0d-a2c7-b969eead58ec@46.254.17.226:9443?sni=filecache.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?sni=api-test-udp-trf.kaneki.cfd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?sni=api-test-udp-traffic.kaneki.cfd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+
+# 2026-10-02 05:33:11 (6 keys added)
 hysteria2://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com:443?sni=0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.104:8443?sni=grape-test-italy.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@1a141e17-tly2o0-tqbai3-1hpo0.los.hyhuawei.com:443?sni=1a141e17-tly2o0-tqbai3-1hpo0.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-
 # 2026-10-01 23:52:12 (8 keys added)
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.146:8443?sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
