@@ -1,6 +1,8 @@
+# 2026-10-03 05:15:16 (1 keys added)
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru&fp=random&alpn=h3#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
+
 # 2026-10-02 23:45:29 (1 keys added)
 hysteria2://e0bee894-1ece-44e1-a3c7-e07a9da102bf@scania.ehorizon.cc:443?security=tls&sni=scania.ehorizon.cc&fp=chrome&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
-
 # 2026-10-02 12:30:03 (5 keys added)
 hysteria2://d0d5de17-12b8-4b0d-a2c7-b969eead58ec@188.225.18.208:9443?sni=appstatic.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 hysteria2://d0d5de17-12b8-4b0d-a2c7-b969eead58ec@46.254.17.226:9443?sni=filecache.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
