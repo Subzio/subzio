@@ -1,3 +1,13 @@
+# 2026-10-06 06:16:46 (8 keys added)
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@77.239.107.191:8443/?sni=wata.internet-card.sbs#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@77.239.107.191:8443?sni=wata.internet-card.sbs&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@45.131.186.202:18445/?sni=mapleledger.gazette.help#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@45.131.186.202:18445?sni=mapleledger.gazette.help&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@45.144.30.156:8443?sni=hazeljournal.gazette.help&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@45.131.186.202:18443/?sni=mapleledger.gazette.help#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@45.131.186.202:18443?sni=mapleledger.gazette.help&alpn=h3#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B%2ACIDR%5D
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.107:8443?sni=grape-test-italy.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+
 # 2026-10-05 22:36:15 (6 keys added)
 hysteria2://146b8bbe-e77b-4934-b559-0d3438611389@46.8.209.210:11223?sni=homelander-finland.cloud-files.app#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.151.101.97:2443/?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
@@ -5,7 +15,6 @@ hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q
 hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@132.243.66.59:443/?sni=waves.pantera-radio.ru#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
 hysteria2://d2c658d5-2502-441c-b750-d1452277ddb1@2.27.53.28:9443/?sni=post-api-udp-uplink.cvedcdigital.vip#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.36:8443?sni=hop-germany-september.dynuddns.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-
 # 2026-10-05 14:32:43 (7 keys added)
 hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@80.66.89.220:443?security=tls&sni=dns-a.hyvps.sbs&alpn=h3&insecure=0#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@31.76.71.233:443?security=tls&sni=info.wwwinternetvideo.click&alpn=h3&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
