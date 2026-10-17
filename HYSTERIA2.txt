@@ -1,10 +1,41 @@
+# 2026-10-17 06:54:08 (30 keys added)
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&alpn=h3&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://f47cf0ee-4051-4bdd-ac46-9261942f6eab@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&fp=random&alpn=h3#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183/?sni=outh.yandex-cloud.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#🇩🇪 Германия 32 Cloudflare, Inc.%20t.me%2Frjsxrd
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 Нидерланды 131 Digital City FZE%20t.me%2Frjsxrd
+hysteria2://f47cf0ee-4051-4bdd-ac46-9261942f6eab@189.74.114.38:54183?sni=outh.yandex-cloud.org#🇳🇱 Нидерланды 75 FDCservers.net%20t.me%2Frjsxrd
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.163:54183?sni=outh.yandex-cloud.org#🇩🇪 Германия 49 FDCservers.net%20t.me%2Frjsxrd
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.162:54183?sni=outh.yandex-cloud.org#🇩🇪 Германия 50 FDCservers.net%20t.me%2Frjsxrd
+hysteria2://f47cf0ee-4051-4bdd-ac46-9261942f6eab@189.74.106.163:54183?sni=outh.yandex-cloud.org#🇩🇪 Германия 55 FDCservers.net%20t.me%2Frjsxrd
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.38:54183?sni=outh.yandex-cloud.org#🇳🇱 Нидерланды 67 FDCservers.net%20t.me%2Frjsxrd
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@137.131.171.249:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#🇧🇷 Бразилия 2 Oracle Corporation%20t.me%2Frjsxrd
+hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 2 Oracle Corporation%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 13 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@ru03.arpanet-cdn.com:17701?sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20Extended%20WL%20%23116%20t.me%2Frjsxrd
+hy2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23343%20t.me%2Frjsxrd
+hy2://56ff50da-a238-4646-95ab-dd159634bd87@ru03.arpanet-cdn.com:17701?obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&sni=ru03.arpanet-cdn.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23542%20t.me%2Frjsxrd
+hy2://033dc6b532@77.232.139.128:11592?obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&sni=srv-8718e6.frd21.ru#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23334%20t.me%2Frjsxrd
+hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23554%20t.me%2Frjsxrd
+hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@de1server2.rabstvo.shop:8443?sni=de1server2.rabstvo.shop#%F0%9F%87%AE%F0%9F%87%B8%20%5BHY%5D%20%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F%20%2316698%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?insecure=0&sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#%F0%9F%87%A6%F0%9F%87%B9%20%5BHY%5D%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%236529%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?insecure=0&sni=hy2.561891.xyz#%F0%9F%87%B9%F0%9F%87%AF%20%5BHY%5D%20%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%234384%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?insecure=0&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%B0%F0%9F%87%AC%20%5BHY%5D%20%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F%20%23825%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.3:54183?sni=outh.yandex-cloud.org#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.163:54183?sni=outh.yandex-cloud.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183/?sni=outh.yandex-cloud.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&alpn=h3&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.38:54183?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
 # 2026-10-17 00:26:57 (18 keys added)
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.37:54183?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&alpn=h3&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.162:54183?sni=outh.yandex-cloud.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 Нидерланды 119 Digital City FZE%20t.me%2Frjsxrd
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@50.7.87.150:54183?sni=outh.yandex-cloud.org#🇩🇪 Германия 53 FDCservers.net%20t.me%2Frjsxrd
 hysteria2://CwBxlYiiKQ5n9OWrS3in5w@92.113.149.214:887?sni=working.vps.webdock.cloud&obfs=salamander&obfs-password=ce53865852721816#🇩🇰 Дания 2 Webdock.io ApS%20t.me%2Frjsxrd
@@ -17,7 +48,6 @@ hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.162:54183?sni=outh.y
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.37:54183?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.2:54183?sni=outh.yandex-cloud.org#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.37:54183?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D
-
 # 2026-10-16 21:04:15 (24 keys added)
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 Нидерланды 134 Digital City FZE%20t.me%2Frjsxrd
@@ -28,7 +58,6 @@ hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@ru03.arpanet-cdn.com:17701?sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20Extended%20WL%20%23108%20t.me%2Frjsxrd
 hy2://56ff50da-a238-4646-95ab-dd159634bd87@ru03.arpanet-cdn.com:17701?obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&sni=ru03.arpanet-cdn.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23636%20t.me%2Frjsxrd
 hy2://033dc6b532@77.232.139.128:11592?obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&sni=srv-8718e6.frd21.ru#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23347%20t.me%2Frjsxrd
-hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 2 Oracle Corporation%20t.me%2Frjsxrd
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23345%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23135%20t.me%2Frjsxrd
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23487%20t.me%2Frjsxrd
@@ -45,7 +74,6 @@ hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 10 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@ru03.arpanet-cdn.com:17701?sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20Extended%20WL%20%2383%20t.me%2Frjsxrd
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&alpn=h3&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 # 2026-10-16 13:13:33 (23 keys added)
 hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#🇩🇪 Германия 21 Cloudflare, Inc.%20t.me%2Frjsxrd
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 Нидерланды 121 Digital City FZE%20t.me%2Frjsxrd
