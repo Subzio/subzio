@@ -1,3 +1,23 @@
+# 2026-10-18 15:49:39 (18 keys added)
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B2%F0%9F%87%A6%20%5BHY%5D%20%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%20%237479%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&insecure=0&sni=ru03.arpanet-cdn.com#%F0%9F%87%A6%F0%9F%87%B9%20%5BHY%5D%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%236397%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%87%B3%F0%9F%87%B1%20%5BHY%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232100%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@ne13847.cdn-video.pro:443?sni=ne13847.cdn-video.pro#%F0%9F%87%A6%F0%9F%87%BF%20%5BHY%5D%20%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%20%236972%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?insecure=0&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%B0%F0%9F%87%AC%20%5BHY%5D%20%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F%20%23910%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://a34f3990b69f44bfa0d32385@137.23.27.143:20000?obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385&sni=rmgyvpn.rest#%F0%9F%87%AE%F0%9F%87%B3%20%5BHY%5D%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20%2314020%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@ne45174.cdn-video.pro:443?sni=ne45174.cdn-video.pro#%F0%9F%87%B1%F0%9F%87%BA%20%5BHY%5D%20%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%20%2318337%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@fr167230.cdn-video.pro:443?sni=fr167230.cdn-video.pro#%F0%9F%87%AB%F0%9F%87%AE%20%5BHY%5D%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%2318329%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@45.141.202.174:443?sni=ne45174.cdn-video.pro#%F0%9F%87%B9%F0%9F%87%B7%20%5BHY%5D%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%233224%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://l6rbd8u8yr003yl0@46.8.112.169:443?sni=node-1.wt419.site&obfs=salamander&obfs-password=amyr5i21tg78b3oa#🇳🇱 Нидерланды 112 Mastersoft S.R.L.%20t.me%2Frjsxrd
+hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@191.215.46.37:443?sni=uk.shamanapp.online#🇬🇧 Великобритания 6 Hostinger International Limited%20t.me%2Frjsxrd
+hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@191.215.46.37:443?sni=uk-d9ca48498a.shamanapp.online#🇬🇧 Великобритания 7 Hostinger International Limited%20t.me%2Frjsxrd
+hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443?sni=me17.msjia8844.site&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq#🇹🇷 Турция 8 Netlen Internet Hizmetleri Ltd. Sti.%20t.me%2Frjsxrd
+hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 1 Oracle Corporation%20t.me%2Frjsxrd
+hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@116.49.85.111:443?sni=645a9197-tmm5c0-tn3jhp-1qthu.hk3.hyhuawei.com#🇭🇰 Гонконг 17 PCCW IMS Limited%20t.me%2Frjsxrd
+hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@45.141.202.174:443?sni=ne45174.cdn-video.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Zoetermeer%20%7C%20%5BBL%5D
+
 # 2026-10-18 11:00:24 (34 keys added)
 hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@95.140.147.245:443?sni=nl1server.rabstvo.shop#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_101810210%20t.me%2Frjsxrd
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?security=tls&sni=match-stream.lovkisport.blog&alpn=h3&insecure=0#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
@@ -16,7 +36,6 @@ hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@167.104.216.230:443?sni=fr16723
 hysteria2://l6rbd8u8yr003yl0@46.8.112.169:443?sni=node-1.wt419.site&obfs=salamander&obfs-password=amyr5i21tg78b3oa#🇳🇱 Нидерланды 127 Mastersoft S.R.L.%20t.me%2Frjsxrd
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@191.215.46.37:443?sni=uk.shamanapp.online#🇬🇧 Великобритания 5 Hostinger International Limited%20t.me%2Frjsxrd
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@191.215.46.37:443?sni=uk-d9ca48498a.shamanapp.online#🇬🇧 Великобритания 6 Hostinger International Limited%20t.me%2Frjsxrd
-hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@45.130.165.199:443?sni=sg45199.cdn-video.pro#🇸🇬 Сингапур 21 Kamatera, Inc.%20t.me%2Frjsxrd
 hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@138.16.143.47:443?sni=ne13847.cdn-video.pro#🇳🇱 Нидерланды 114 RACKTECH CO., LTD.%20t.me%2Frjsxrd
 hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@137.131.171.249:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#🇧🇷 Бразилия 2 Oracle Corporation%20t.me%2Frjsxrd
@@ -31,9 +50,7 @@ hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.41:54183?sni=outh.ya
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&alpn=h3&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@fr167230.cdn-video.pro:443?sni=fr167230.cdn-video.pro#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.41:54183?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D
-hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@45.141.202.174:443?sni=ne45174.cdn-video.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Zoetermeer%20%7C%20%5BBL%5D
 hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@ne45174.cdn-video.pro:443?sni=ne45174.cdn-video.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Zoetermeer%20%7C%20%5BBL%5D
-
 # 2026-10-18 04:28:06 (25 keys added)
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&alpn=h3&fp=qq#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183/?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
@@ -99,7 +116,6 @@ hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.163:54183?sni=outh.y
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🇺🇸 США 83 BACK WAVES LIMITED%20t.me%2Frjsxrd
 hysteria2://a34f3990b69f44bfa0d32385@137.23.27.143:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#🇦🇺 Австралия 2 Oracle Corporation%20t.me%2Frjsxrd
 hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443?sni=me17.msjia8844.site&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq#🇹🇷 Турция 10 Netlen Internet Hizmetleri Ltd. Sti.%20t.me%2Frjsxrd
-hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 1 Oracle Corporation%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%2339%20t.me%2Frjsxrd
 hy2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23343%20t.me%2Frjsxrd
 hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23554%20t.me%2Frjsxrd
