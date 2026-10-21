@@ -1,6 +1,13 @@
 # Free Proxy Keys for Russian mobile internet (LTE/4G)
 
+Russian version: [README.md](README.md)
+
 This repository collects keys from free proxy servers with a focus on bypassing blocks.
+
+## Direct links to the lists
+- (Recommended) [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
+- [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
+- [Full proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio)
 
 ## Repository contents
 - `WHITE_LIST_PROXY_COLLECTION.txt` — main proxy list with the current full set of entries
@@ -22,6 +29,9 @@ Run the local workflow simulation with:
 ```
 
 ## TODO
+### Urgent
+- Create a proxy list for Gemini API and Web
+### Later
 - Add lists for `xhttp`
 - Generate XRAY Json with auto-balancer from `WHITE_LIST_PROXY_COLLECTION.txt`
 
