@@ -1,3 +1,10 @@
+# 2026-10-21 13:44:52 (5 keys added)
+hysteria2://d5e2093f-7a12-4b93-9ace-bd95dc8de71a@45.140.188.104:3006?sni=nl4-gkivm5.vpvr4ib84nuv6hdkt.ru#🇳🇱 Нидерланды 102 RoyaleHosting BV%20t.me%2Frjsxrd
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#🇧🇷 Бразилия 2 Oracle Corporation%20t.me%2Frjsxrd
+hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443?sni=me17.msjia8844.site&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq#🇹🇷 Турция 15 Netlen Internet Hizmetleri Ltd. Sti.%20t.me%2Frjsxrd
+hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 3 Oracle Corporation%20t.me%2Frjsxrd
+hysteria2://d5e2093f-7a12-4b93-9ace-bd95dc8de71a@nl4-gkivm5.vpvr4ib84nuv6hdkt.ru:3006?sni=nl4-gkivm5.vpvr4ib84nuv6hdkt.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+
 # 2026-10-21 10:58:30 (13 keys added)
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B2%F0%9F%87%A6%20%5BHY%5D%20%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%20%2311779%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#%F0%9F%87%A7%F0%9F%87%B7%20%5BHY%5D%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%232055%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
@@ -10,9 +17,7 @@ hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?sni=nl-hy-te
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@191.215.46.37:443?sni=uk.shamanapp.online#🇬🇧 Великобритания 9 Hostinger International Limited%20t.me%2Frjsxrd
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@191.215.46.37:443?sni=uk-d9ca48498a.shamanapp.online#🇬🇧 Великобритания 8 Hostinger International Limited%20t.me%2Frjsxrd
 hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#🇧🇷 Бразилия Oracle Corporation%20t.me%2Frjsxrd
-hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 3 Oracle Corporation%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 30 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
-
 # 2026-10-21 07:35:16 (13 keys added)
 # 2026-10-21 00:36:19 (7 keys added)
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 Нидерланды 115 Digital City FZE%20t.me%2Frjsxrd
