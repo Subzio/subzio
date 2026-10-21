@@ -4,6 +4,11 @@ English version: [README.en.md](README.en.md)
 
 Этот репозиторий собирает ключи с бесплатных серверов с упором на обход БС.
 
+## Прямые ссылки на списки
+- [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt)
+- [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt)
+- [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt)
+
 ## Содержимое репозитория
 - `WHITE_LIST_PROXY_COLLECTION.txt` — основной список прокси с текущим полным набором записей
 - `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
@@ -25,7 +30,6 @@ English version: [README.en.md](README.en.md)
 
 ## TODO
 ### Urgent
-- Дополнительный раздел в README.md с raw-ссылками на `<sub-name>.txt`
 - Список прокси для Gemini Api|Web
 ### Later
 - Добавить списоки для `xhttp`
