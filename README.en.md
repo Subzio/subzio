@@ -5,12 +5,14 @@ This repository collects keys from free proxy servers with a focus on bypassing 
 ## Repository contents
 - `WHITE_LIST_PROXY_COLLECTION.txt` — main proxy list with the current full set of entries
 - `HYSTERIA2.txt` — extracted `hysteria2://` entries. These keys accumulate, with the latest keys at the beginning of the list.
+- `TROJAN.txt` — extracted `trojan://` entries, with the latest keys at the beginning of the list.
 - `source-list.txt` — list of sources
 - `input/` — temporary folder
 
 ## Features
 - The lists do not include Russian servers to support access to AI services
 - `HYSTERIA2.txt` contains only `hysteria2://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`
+- `TROJAN.txt` contains only `trojan://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`
 
 ## Local usage
 Run the local workflow simulation with:
@@ -20,7 +22,7 @@ Run the local workflow simulation with:
 ```
 
 ## TODO
-- Add lists for `xhttp`, `trojan`
+- Add lists for `xhttp`
 - Generate XRAY Json with auto-balancer from `WHITE_LIST_PROXY_COLLECTION.txt`
 
 ## Contribution

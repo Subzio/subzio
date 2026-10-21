@@ -7,12 +7,14 @@ English version: [README.en.md](README.en.md)
 ## Содержимое репозитория
 - `WHITE_LIST_PROXY_COLLECTION.txt` — основной список прокси с текущим полным набором записей
 - `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
+- `TROJAN.txt` — извлечённые записи вида `trojan://`. Новые ключи добавляются в начало списка.
 - `source-list.txt` — список источников
 - `input/` — временная папка
 
 ## Фичи
 - В списках нет российских серверов, чтобы обеспечить доступ к AI-сервисам.
 - `HYSTERIA2.txt` содержит только ссылки `hysteria2://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
+- `TROJAN.txt` содержит только ссылки `trojan://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
 
 ## Локальное использование
 Запустите симуляцию workflow локально:
@@ -22,8 +24,12 @@ English version: [README.en.md](README.en.md)
 ```
 
 ## TODO
-- Добавить списоки для `xhttp`, `trojan`
-- Сгенерировать XRAY Json с авто-балансировщиком из `WHITE_LIST_PROXY_COLLECTION.txt`
+### Urgent
+- Дополнительный раздел в README.md с raw-ссылками на `<sub-name>.txt`
+- Список прокси для Gemini Api|Web
+### Later
+- Добавить списоки для `xhttp`
+
 
 ## Участие
 Вы можете предложить источник через pull request.

@@ -105,11 +105,31 @@ jobs:
         rm -f "$tmp" "$new"
         echo "Extracted hysteria2 lines:" $(wc -l < HYSTERIA2.txt)
 
+    - name: Extract trojan entries
+      run: |
+        set -euo pipefail
+        tmp=$(mktemp)
+        new=$(mktemp)
+        awk '/^trojan:\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$new"
+        if [ -s "$new" ]; then
+          now=$(date '+%Y-%m-%d %H:%M:%S')
+          count=$(wc -l < "$new" | tr -d '[:space:]')
+          printf '# %s (%s keys added)\n' "$now" "$count" > "$tmp"
+          cat "$new" >> "$tmp"
+          printf '\n' >> "$tmp"
+        fi
+        if [ -f TROJAN.txt ]; then
+          cat TROJAN.txt >> "$tmp"
+        fi
+        awk '!seen[$0]++' "$tmp" > TROJAN.txt || true
+        rm -f "$tmp" "$new"
+        echo "Extracted trojan lines:" $(wc -l < TROJAN.txt)
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add WHITE_LIST_PROXY_COLLECTION.txt HYSTERIA2.txt
+        git add WHITE_LIST_PROXY_COLLECTION.txt HYSTERIA2.txt TROJAN.txt
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else

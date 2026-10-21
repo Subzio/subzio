@@ -70,5 +70,21 @@ fi
 awk '!seen[$0]++' "$tmp" > HYSTERIA2.txt || true
 rm -f "$tmp" "$new"
 
+tmp=$(mktemp)
+new=$(mktemp)
+awk '/^trojan:\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$new"
+if [ -s "$new" ]; then
+  now=$(date '+%Y-%m-%d %H:%M:%S')
+  count=$(wc -l < "$new" | tr -d '[:space:]')
+  printf '# %s (%s keys added)\n' "$now" "$count" > "$tmp"
+  cat "$new" >> "$tmp"
+  printf '\n' >> "$tmp"
+fi
+if [ -f TROJAN.txt ]; then
+  cat TROJAN.txt >> "$tmp"
+fi
+awk '!seen[$0]++' "$tmp" > TROJAN.txt || true
+rm -f "$tmp" "$new"
+
 echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)
 
