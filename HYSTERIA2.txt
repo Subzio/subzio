@@ -1,3 +1,16 @@
+# 2026-10-25 04:36:58 (11 keys added)
+hysteria2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru#%E8%8B%B1%E5%9B%BD_102506357%20t.me%2Frjsxrd
+hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@84.32.129.182:443?sni=promo3.betust.net#%F0%9F%87%A6%F0%9F%87%BF%20%5BHY%5D%20%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%20%238259%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?sni=promo3.betust.net#%F0%9F%87%BA%F0%9F%87%B8%20%5BHY%5D%20%D0%A1%D0%A8%D0%90%20%235359%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 118 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
+hysteria2://dd56bf58-4c37-42e1-9e75-4b6c67939ffd@191.217.211.128:20270?sni=pl1.song69.fun#🇵🇱 Польша 15 Kochedykov Egor Aleksandrovich%20t.me%2Frjsxrd
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 3 Interkvm Host SRL%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 14 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
+hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@143.246.211.163:443?sni=fr.gorobsub.com#🇫🇷 Франция 15 ALEXHOST SRL%20t.me%2Frjsxrd
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23425%20t.me%2Frjsxrd
+hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?sni=promo3.betust.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D
+hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?sni=promo3.betust.net&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D
+
 # 2026-10-24 22:27:25 (18 keys added)
 hysteria2://e5ec2586-59b3-40fa-91b7-bb37a2f7744e@141.0.187.50:443?sni=crt.onecloudstream.com#🇪🇪 Эстония 4 Alfahost LLC%20t.me%2Frjsxrd
 hysteria2://e5ec2586-59b3-40fa-91b7-bb37a2f7744e@45.88.12.26:443?sni=crt.onecloudstream.com#🇩🇪 Германия 70 OC NETWORKS LIMITED%20t.me%2Frjsxrd
@@ -11,13 +24,9 @@ hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.c
 hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#🇧🇷 Бразилия Oracle Corporation%20t.me%2Frjsxrd
 hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 2 Oracle Corporation%20t.me%2Frjsxrd
 hysteria2://a34f3990b69f44bfa0d32385@137.23.3.91:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#🇦🇺 Австралия 1 Oracle Corporation%20t.me%2Frjsxrd
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23425%20t.me%2Frjsxrd
 hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@143.246.211.163:443?sni=fr.gorobsub.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@143.246.211.163:443?sni=fr.gorobsub.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@84.32.129.182:443?sni=promo3.betust.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D
-hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?sni=promo3.betust.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D
-hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?sni=promo3.betust.net&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D
-
 # 2026-10-24 18:46:22 (9 keys added)
 hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@130.162.134.218:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM#🇰🇷 Южная Корея 18 Oracle Corporation%20t.me%2Frjsxrd
 hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 1 Oracle Corporation%20t.me%2Frjsxrd
@@ -179,7 +188,6 @@ hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.c
 hy2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23188%20t.me%2Frjsxrd
 # 2026-10-19 19:53:56 (7 keys added)
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 Нидерланды 109 Digital City FZE%20t.me%2Frjsxrd
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 3 Interkvm Host SRL%20t.me%2Frjsxrd
 hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@130.162.134.218:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM#🇰🇷 Южная Корея 3 Oracle Corporation%20t.me%2Frjsxrd
 # 2026-10-19 13:07:57 (7 keys added)
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%B2%F0%9F%87%A6%20%5BHY%5D%20%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%20%237492%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
