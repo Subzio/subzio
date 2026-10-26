@@ -4,6 +4,8 @@ English version: [README.en.md](README.en.md)
 
 Этот репозиторий собирает ключи с бесплатных серверов с упором на обход БС.
 
+Списки адаптированны под sing box клиенты и 100% совместимы с xray core.
+
 ## Прямые ссылки на списки
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio) - Рекомендуется
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) - Раньше было лучше

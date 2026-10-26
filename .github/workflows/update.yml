@@ -69,9 +69,9 @@ jobs:
             echo "Processing $file..."
             awk '
             /^(ss|socks):\/\// { next }                                 # remove SS
-            /xtls-rprx-vision-udp443/ { next }                          # Skip malformed generated links
+            /xtls-rprx-vision-udp443/ { next }                          # Is not supported by sing box clients
             /Russia|RU|%F0%9F%87%B7%F0%9F%87%BA%20|Россия/ { next }                             # Filter our Russian servers by a key name
-            /xmux/ { next }                                            # Skip usually malformed xmux param
+            /xmux/ { next }                                            # Is not supported by sing box clients
             /extra/ { next }
             /type=tcp/ && /sec(urity|ure)=none/ { next }               # Skip type=tcp + security=none (VULNERABLE), order-agnostic
             /sec(urity|ure)=none/ && !/type=xhttp/ { next }            # Skip secure=none without type=xhttp

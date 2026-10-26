@@ -4,6 +4,8 @@ Russian version: [README.md](README.md)
 
 This repository collects keys from free proxy servers with a focus on bypassing blocks.
 
+The lists are apdopted for sing box based clients, and 100% compatible with xray core clients.
+
 ## Direct links to the lists
 - (Recommended) [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
