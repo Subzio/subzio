@@ -1,3 +1,13 @@
+# 2026-10-26 15:09:43 (8 keys added)
+hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#%F0%9F%87%AB%F0%9F%87%B7%20%5BHY%5D%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%235439%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443/?obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq&sni=me17.msjia8844.site#%F0%9F%87%A8%F0%9F%87%B3%20%5BHY%5D%20%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%20%2312123%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.76.24.11:4443?sni=de1.shvpn.ru#🇩🇪 Германия 40 PLAY2GO INTERNATIONAL LIMITED%20t.me%2Frjsxrd
+hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@94.103.169.80:4443?sni=de2.shvpn.ru#🇩🇪 Германия 44 PLAY2GO INTERNATIONAL LIMITED%20t.me%2Frjsxrd
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?_t=6462b95f&obfs-password=c1b4086fea89914496c7e10967a419216566&seq=you_are_beautiful7216&seq=you_are_beautiful4603&obfs=salamander&descriptions=люби_себя014a40&sni=hy2-new.aspidnet.xyz&descriptions=СвободуИнтернету713&freeinternet=kizyak_vpn1782335286121&security=tls&nonce=fLqAwvwP&burmalda=442ec1cb#[361ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?seq=you_are_beautiful4603&sni=hy2-new.aspidnet.xyz&_t=6462b95f&freeinternet=kizyak_vpn1782335286121&seq=you_are_beautiful7216&descriptions=СвободуИнтернету713&security=tls&nonce=fLqAwvwP&obfs-password=c1b4086fea89914496c7e10967a419216566&obfs=salamander&descriptions=люби_себя014a40&nonce=kaSdDbs-#[340ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443?sni=fr.song69.fun#🇫🇷 Франция 32 WEDEPLOY SAS%20t.me%2Frjsxrd
+hysteria2://vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 104 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
+
 # 2026-10-26 07:45:28 (35 keys added)
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs-password=c1b4086fea89914496c7e10967a419216566&nonce=fLqAwvwP&obfs=salamander&freeinternet=kizyak_vpn1782335286121&seq=you_are_beautiful7216&security=tls&descriptions=СвободуИнтернету713&seq=you_are_beautiful4603&sni=hy2-new.aspidnet.xyz&_t=6462b95f&descriptions=люби_себя014a40&seq=you_are_beautiful1815#[258ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@2.26.6.32:4443?sni=pl1.shvpn.ru#🇵🇱 Польша 9 MITELIS SECURITY LIMITED%20t.me%2Frjsxrd
@@ -34,7 +44,6 @@ hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de4.shvpn.ru:4443?sni=de4.shvpn
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de5.shvpn.ru:4443?sni=de5.shvpn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@2.27.205.87:4443?sni=nl5.shvpn.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@nl5.shvpn.ru:4443?sni=nl5.shvpn.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-
 # 2026-10-26 00:19:56 (11 keys added)
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs-password=c1b4086fea89914496c7e10967a419216566&nonce=fLqAwvwP&obfs=salamander&freeinternet=kizyak_vpn1782335286121&seq=you_are_beautiful7216&security=tls&descriptions=СвободуИнтернету713&seq=you_are_beautiful4603&sni=hy2-new.aspidnet.xyz&_t=6462b95f&descriptions=люби_себя014a40&freeinternet=kizyak_vpn1792952724423#[367ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
 hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&obfs=salamander&obfs-password=SalamanderNL2026#🇳🇱 Нидерланды 130 Timeweb, LLP%20t.me%2Frjsxrd
