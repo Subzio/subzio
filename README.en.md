@@ -6,7 +6,7 @@ This repository collects keys from free proxy servers with a focus on bypassing 
 
 The lists are apdopted for sing box based clients, and 100% compatible with xray core clients.
 
-## Direct links to the lists
+## Subscription (direct links to the lists)
 - (Recommended) [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
