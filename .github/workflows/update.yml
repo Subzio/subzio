@@ -125,11 +125,28 @@ jobs:
         rm -f "$tmp" "$new"
         echo "Extracted trojan lines:" $(wc -l < TROJAN.txt)
 
+    - name: Extract xhttp entries
+      run: |
+        set -euo pipefail
+        tmp=$(mktemp)
+        new=$(mktemp)
+        awk '/^vless:\/\/.*[?&]type=xhttp(&|#|$)/ && !seen[$0]++ { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$new"
+        if [ -s "$new" ]; then
+          now=$(date '+%Y-%m-%d %H:%M:%S')
+          count=$(wc -l < "$new" | tr -d '[:space:]')
+          printf '# %s (%s current keys)\n' "$now" "$count" > "$tmp"
+          cat "$new" >> "$tmp"
+          printf '\n' >> "$tmp"
+        fi
+        mv "$tmp" XHTTP.txt
+        echo "Extracted xhttp lines:" "$(wc -l < "$new")"
+        rm -f "$new"
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add WHITE_LIST_PROXY_COLLECTION.txt HYSTERIA2.txt TROJAN.txt
+        git add WHITE_LIST_PROXY_COLLECTION.txt HYSTERIA2.txt TROJAN.txt XHTTP.txt
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else

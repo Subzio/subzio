@@ -8,6 +8,7 @@ English version: [README.en.md](README.en.md)
 
 ## Прямые ссылки на списки
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio) - Рекомендуется
+- [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) - Раньше было лучше
 - [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) - Тут есть обходы БС
 
@@ -15,6 +16,7 @@ English version: [README.en.md](README.en.md)
 - `WHITE_LIST_PROXY_COLLECTION.txt` — основной список прокси с текущим полным набором записей
 - `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
 - `TROJAN.txt` — извлечённые записи вида `trojan://`. Новые ключи добавляются в начало списка.
+- `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`; он полностью пересоздаётся при каждом запуске.
 - `source-list.txt` — список источников
 - `input/` — временная папка
 
@@ -22,6 +24,7 @@ English version: [README.en.md](README.en.md)
 - В списках нет российских серверов, чтобы обеспечить доступ к AI-сервисам.
 - `HYSTERIA2.txt` содержит только ссылки `hysteria2://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
 - `TROJAN.txt` содержит только ссылки `trojan://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
+- `XHTTP.txt` содержит только ссылки с параметром `type=xhttp`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
 
 ## Локальное использование
 Запустите симуляцию workflow локально:
@@ -31,10 +34,7 @@ English version: [README.en.md](README.en.md)
 ```
 
 ## TODO
-### Urgent
 - Список прокси для Gemini Api|Web
-### Later
-- Добавить списоки для `xhttp`
 
 
 ## Участие

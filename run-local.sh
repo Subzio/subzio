@@ -86,5 +86,19 @@ fi
 awk '!seen[$0]++' "$tmp" > TROJAN.txt || true
 rm -f "$tmp" "$new"
 
+tmp=$(mktemp)
+new=$(mktemp)
+awk '/^vless:\/\/.*[?&]type=xhttp(&|#|$)/ && !seen[$0]++ { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$new"
+if [ -s "$new" ]; then
+  now=$(date '+%Y-%m-%d %H:%M:%S')
+  count=$(wc -l < "$new" | tr -d '[:space:]')
+  printf '# %s (%s current keys)\n' "$now" "$count" > "$tmp"
+  cat "$new" >> "$tmp"
+  printf '\n' >> "$tmp"
+fi
+mv "$tmp" XHTTP.txt
+echo "Extracted xhttp lines:" "$(wc -l < "$new")"
+rm -f "$new"
+
 echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)
 
