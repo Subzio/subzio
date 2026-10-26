@@ -6,7 +6,7 @@ English version: [README.en.md](README.en.md)
 
 Списки адаптированны под sing box клиенты и 100% совместимы с xray core.
 
-## Прямые ссылки на списки
+## Подиски (прямые ссылки на списки)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio) - Рекомендуется
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) - Раньше было лучше
