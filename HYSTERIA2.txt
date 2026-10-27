@@ -1,3 +1,43 @@
+# 2026-10-27 01:27:53 (38 keys added)
+hysteria2://a9e5d7ed-ce1a-48eb-9767-4de54fcfaba7@13.143.161.97:32520?sni=nl-post.yandex-api.store#🇳🇱 Нидерланды 86 PLAY2GO - FZCO%20t.me%2Frjsxrd
+hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@94.103.169.80:4443/?sni=de2.shvpn.ru#%F0%9F%87%AE%F0%9F%87%B9%20%5BHY%5D%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%2311911%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@150.251.141.186:4443?sni=nl1.obxodvpn.us#🇳🇱 Нидерланды 96 Paul Sagov%20t.me%2Frjsxrd
+hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#%F0%9F%87%AB%F0%9F%87%B7%20%5BHY%5D%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%235215%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@hys-eu.letsconnectpoint.com:443?sni=hys-eu.letsconnectpoint.com#%F0%9F%87%BA%F0%9F%87%B8%20%5BHY%5D%20%D0%A1%D0%A8%D0%90%20%2314671%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.183.5:4443?sni=de4.shvpn.ru#%F0%9F%87%B9%F0%9F%87%AD%20%5BHY%5D%20%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%20%2314677%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online#%F0%9F%87%B1%F0%9F%87%B9%20%5BHY%5D%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%20%2314355%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@194.76.147.34:443?sni=hys-eu.letsconnectpoint.com#%F0%9F%87%B9%F0%9F%87%BC%20%5BHY%5D%20%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C%20%2314670%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.240.153:4444?sni=swo1.nexfile.net#🇸🇪 Швеция 12 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.226:4444?sni=fl2.nexfile.net#🇫🇮 Финляндия 23 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.76.24.11:4443?sni=de1.shvpn.ru#🇩🇪 Германия 18 PLAY2GO INTERNATIONAL LIMITED%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.181:4444?sni=fl2.nexfile.net#🇫🇮 Финляндия 22 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#🇩🇪 Германия 6 Paul Sagov%20t.me%2Frjsxrd
+hysteria2://vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 106 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
+hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@185.139.215.41:443?sni=nl.gorobsub.com#🇳🇱 Нидерланды 110 ALEXHOST S.R.L.%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.104:4444?sni=pl2.nexfile.net#🇵🇱 Польша 11 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.71:4444?sni=pl3.nexfile.net#🇵🇱 Польша 12 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.188.152:4444?sni=bl2.nexfile.net#🇧🇾 Беларусь 7 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.188.156:4444?sni=bl3.nexfile.net#🇧🇾 Беларусь 6 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@81.180.93.171:4443?sni=ro.gorobsub.com#🇷🇴 Румыния 1 ALEXHOST S.R.L.%20t.me%2Frjsxrd
+hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.77.8.55:4443?sni=de5.shvpn.ru#🇩🇪 Германия 53 PLAY2GO - FZCO%20t.me%2Frjsxrd
+hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443?sni=fr.song69.fun#🇫🇷 Франция 34 WEDEPLOY SAS%20t.me%2Frjsxrd
+hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@91.103.140.6:443?sni=fl.solomon-planet.ru#🇫🇮 Финляндия 38 NetCrafters OU%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 25 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@31.77.29.74:4444?sni=jap2.nexfile.net#🇯🇵 Япония 12 Akenai Products LTD%20t.me%2Frjsxrd
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.181:4444?sni=fl2.nexfile.net#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.226:4444?sni=fl2.nexfile.net#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@fl2.nexfile.net:4444?sni=fl2.nexfile.net&security=tls#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?sni=steel7.hadsvpn.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@jap2.nexfile.net:4444?sni=jap2.nexfile.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@swo1.nexfile.net:4444?sni=swo1.nexfile.net&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+hysteria2://a9e5d7ed-ce1a-48eb-9767-4de54fcfaba7@13.143.161.97:32520?sni=nl-post.yandex-api.store#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+hysteria2://a9e5d7ed-ce1a-48eb-9767-4de54fcfaba7@nl-post.yandex-api.store:32520?sni=nl-post.yandex-api.store&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@185.139.215.41:443?security=tls&sni=nl.gorobsub.com&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@185.139.215.41:443?sni=nl.gorobsub.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@91.103.140.6:443?sni=fl.solomon-planet.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
+hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@fl.solomon-planet.ru:443?sni=fl.solomon-planet.ru&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
+
 # 2026-10-26 21:00:06 (14 keys added)
 hysteria2://dd56bf58-4c37-42e1-9e75-4b6c67939ffd@pl.song69.fun:20270?sni=pl1.song69.fun#%F0%9F%87%AB%F0%9F%87%AE%20%5BHY%5D%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%235161%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@fr2-cl3.happy-glonaris.top:443?sni=fr2-cl3.happy-glonaris.top#%F0%9F%87%B9%F0%9F%87%AF%20%5BHY%5D%20%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%2315093%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
@@ -13,7 +53,6 @@ hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@195.177.94.166:443?sni=fr2-cl3.
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.183.5:4443?sni=de4.shvpn.ru#🇺🇸 США 62 PLAY2GO - FZCO%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23418%20t.me%2Frjsxrd
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23425%20t.me%2Frjsxrd
-
 # 2026-10-26 15:09:43 (8 keys added)
 hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#%F0%9F%87%AB%F0%9F%87%B7%20%5BHY%5D%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%235439%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443/?obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq&sni=me17.msjia8844.site#%F0%9F%87%A8%F0%9F%87%B3%20%5BHY%5D%20%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%20%2312123%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
