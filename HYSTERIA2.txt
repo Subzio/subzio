@@ -1,11 +1,34 @@
-# 2026-10-30 05:43:05 (6 keys added)
+# 2026-10-30 12:49:48 (25 keys added)
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#🇩🇪 Германия 98 Paul Sagov%20t.me%2Frjsxrd
+hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&obfs=salamander&obfs-password=SalamanderNL2026#🇳🇱 Нидерланды 158 Timeweb, LLP%20t.me%2Frjsxrd
+hysteria2://24266838d888d903594cc6e33910aeeb@2.28.226.197:443?sni=vpn.172908710.dpdns.org&obfs=salamander&obfs-password=27b960aa5b199a215c3a84fd4818e5d2#🇩🇪 Германия 2 Hetzner Online GmbH%20t.me%2Frjsxrd
+hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:443?sni=blogs.blog-forme.ru#🇩🇪 Германия 59 HOSTOX GROUP S.R.L.%20t.me%2Frjsxrd
 hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20HY2%20t.me%2Frjsxrd
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443?sni=me17.msjia8844.site&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq#🇹🇷 Турция 5 Netlen Internet Hizmetleri Ltd. Sti.%20t.me%2Frjsxrd
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland.biznes.lol#🇫🇮 Финляндия 24 Web1 Oy%20t.me%2Frjsxrd
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@31.76.104.155:9443?sni=onecloudstream.com#🇱🇻 Латвия 9 Intars Rupeiks%20t.me%2Frjsxrd
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443?sni=onecloudstream.com#🇱🇻 Латвия 2 Intars Rupeiks%20t.me%2Frjsxrd
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?security=tls&sni=steel7.hadsvpn.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@31.76.104.160:9443?sni=onecloudstream.com#🇱🇻 Латвия 8 Intars Rupeiks%20t.me%2Frjsxrd
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?sni=onecloudstream.com#🇱🇻 Латвия 1 Intars Rupeiks%20t.me%2Frjsxrd
+hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#🇸🇪 Швеция 12 Need, L.L.C.-FZ%20t.me%2Frjsxrd
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.22:9443?sni=onecloudstream.com#🇱🇻 Латвия 3 Intars Rupeiks%20t.me%2Frjsxrd
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls&sni=hy2-new.aspidnet.xyz#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://7c9c7f52-5a8c-43e0-b6d1-c8552289f230@167.148.201.99:443?security=tls&sni=us.mi11o4ka.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
-hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://7c9c7f52-5a8c-43e0-b6d1-c8552289f230@167.148.201.99:443?sni=us.mi11o4ka.com#🇺🇸 США 48 MillenialHost Limited%20t.me%2Frjsxrd
+hysteria2://ee78c844-83b6-4508-b1f9-b3f00c8e0556@167.148.201.99:443?sni=us.mi11o4ka.com#🇺🇸 США 49 MillenialHost Limited%20t.me%2Frjsxrd
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 3 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#🇰🇷 Южная Корея 4 Oracle Corporation%20t.me%2Frjsxrd
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox&alpn=h3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.22:9443?sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 
+# 2026-10-30 05:43:05 (6 keys added)
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443?sni=me17.msjia8844.site&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq#🇹🇷 Турция 5 Netlen Internet Hizmetleri Ltd. Sti.%20t.me%2Frjsxrd
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 # 2026-10-29 23:55:14 (28 keys added)
 hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Эстония 2 Paul Sagov%20t.me%2Frjsxrd
 hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#🇩🇪 Германия 70 Paul Sagov%20t.me%2Frjsxrd
@@ -16,7 +39,6 @@ hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscop
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 Нидерланды 188 Digital City FZE%20t.me%2Frjsxrd
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?sni=onecloudstream.com#🇱🇻 Латвия 6 Intars Rupeiks%20t.me%2Frjsxrd
 hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&obfs=salamander&obfs-password=SalamanderNL2026#🇳🇱 Нидерланды 184 Timeweb, LLP%20t.me%2Frjsxrd
-hysteria2://24266838d888d903594cc6e33910aeeb@2.28.226.197:443?sni=vpn.172908710.dpdns.org&obfs=salamander&obfs-password=27b960aa5b199a215c3a84fd4818e5d2#🇩🇪 Германия 2 Hetzner Online GmbH%20t.me%2Frjsxrd
 hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland.biznes.lol#🇫🇮 Финляндия 28 Web1 Oy%20t.me%2Frjsxrd
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202a12%3A3200%3A1002%3A6%3A%3A1%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 hysteria2://ee78c844-83b6-4508-b1f9-b3f00c8e0556@167.148.201.99:443?sni=us.mi11o4ka.com#🇺🇸 США 54 MillenialHost Limited%20t.me%2Frjsxrd
@@ -26,9 +48,6 @@ hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443?sni=hy.cardli
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#🇰🇷 Южная Корея 3 Oracle Corporation%20t.me%2Frjsxrd
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@191.217.211.161:20270?sni=pl1.song69.fun#🇵🇱 Польша 7 Kochedykov Egor Aleksandrovich%20t.me%2Frjsxrd
 hysteria2://48ef13ac-d89e-4da0-8db4-c6aa72db4918@191.217.211.161:21374?sni=pl1.song69.fun#🇵🇱 Польша 8 Kochedykov Egor Aleksandrovich%20t.me%2Frjsxrd
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?security=tls&sni=steel7.hadsvpn.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20HY2%20t.me%2Frjsxrd
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23315%20t.me%2Frjsxrd
 hysteria2://b85b119a-b8c8-43ea-8a35-7f2140366e39@31.76.71.147:443?sni=uk-hy2.vpber.info&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
@@ -113,7 +132,6 @@ hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.188.153:4444?sni=bl2.nex
 hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#%F0%9F%87%AB%F0%9F%87%B7%20%5BHY%5D%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%234850%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#%F0%9F%87%A7%F0%9F%87%B7%20%5BHY%5D%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%231998%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 hysteria2://7c9c7f52-5a8c-43e0-b6d1-c8552289f230@167.148.201.99:443?sni=us.mi11o4ka.com#🇺🇸 США 47 MillenialHost Limited%20t.me%2Frjsxrd
-hysteria2://ee78c844-83b6-4508-b1f9-b3f00c8e0556@167.148.201.99:443?sni=us.mi11o4ka.com#🇺🇸 США 49 MillenialHost Limited%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 18 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
 # 2026-10-28 01:18:20 (25 keys added)
 hysteria2://vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 79 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
