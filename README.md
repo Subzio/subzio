@@ -13,7 +13,8 @@ English version: [README.en.md](README.en.md)
 - [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) - Тут есть обходы БС
 
 ## Содержимое репозитория
-- `WHITE_LIST_PROXY_COLLECTION.txt` — основной список прокси с текущим полным набором записей
+- `WHITE_LIST_PROXY_COLLECTION.txt` — основной список уникальных записей, найденных в снимках за последние 72 часа
+- `WHITE_LIST_PROXY_COLLECTION/` — отфильтрованные снимки каждого запуска за последние 72 часа; повторы внутри снимков сохраняются
 - `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
 - `TROJAN.txt` — извлечённые записи вида `trojan://`. Новые ключи добавляются в начало списка.
 - `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`; он полностью пересоздаётся при каждом запуске.
@@ -22,6 +23,7 @@ English version: [README.en.md](README.en.md)
 
 ## Фичи
 - В списках нет российских серверов, чтобы обеспечить доступ к AI-сервисам.
+- Основной список собирается из снимков за последние 72 часа; удаляются только точные дубликаты строк.
 - `HYSTERIA2.txt` содержит только ссылки `hysteria2://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
 - `TROJAN.txt` содержит только ссылки `trojan://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
 - `XHTTP.txt` содержит только ссылки с параметром `type=xhttp`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`

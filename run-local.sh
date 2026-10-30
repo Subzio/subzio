@@ -35,8 +35,14 @@ for url in "${lines[@]}"; do
   fi
 done
 
-# Run existing filtering pipeline
-> WHITE_LIST_PROXY_COLLECTION.txt
+# Filter this run's inputs and preserve duplicates in its snapshot.
+archive_dir="WHITE_LIST_PROXY_COLLECTION"
+mkdir -p "$archive_dir"
+current=$(mktemp)
+combined=$(mktemp)
+trap 'rm -f "$current" "$combined"' EXIT
+
+shopt -s nullglob
 for file in input/*.txt; do
   echo "Processing $file..."
   awk '
@@ -48,11 +54,31 @@ for file in input/*.txt; do
     /type=tcp/ && /sec(urity|ure)=none/ { next }
     /sec(urity|ure)=none/ && !/type=xhttp/ { next }
     { print }
-  ' "$file" >> WHITE_LIST_PROXY_COLLECTION.txt
+  ' "$file" >> "$current"
 done
 
-awk '!seen[$0]++' WHITE_LIST_PROXY_COLLECTION.txt > WHITE_LIST_PROXY_COLLECTION.tmp || true
-mv WHITE_LIST_PROXY_COLLECTION.tmp WHITE_LIST_PROXY_COLLECTION.txt || true
+now_epoch=$(date -u +%s)
+now_utc=$(date -u +%Y%m%dT%H%M%SZ)
+run_id=${GITHUB_RUN_ID:-local-$$}
+run_attempt=${GITHUB_RUN_ATTEMPT:-1}
+snapshot="$archive_dir/${now_utc}-${now_epoch}-${run_id}-${run_attempt}.txt"
+cp "$current" "$snapshot"
+
+cutoff_epoch=$((now_epoch - 72 * 60 * 60))
+for snapshot_file in "$archive_dir"/*.txt; do
+  snapshot_name=${snapshot_file##*/}
+  snapshot_epoch=${snapshot_name#*-}
+  snapshot_epoch=${snapshot_epoch%%-*}
+  if [[ "$snapshot_epoch" =~ ^[0-9]+$ ]] && (( snapshot_epoch <= cutoff_epoch )); then
+    rm -f "$snapshot_file"
+  fi
+done
+
+# Combine oldest-to-newest snapshots and keep each entry's first occurrence.
+for snapshot_file in "$archive_dir"/*.txt; do
+  cat "$snapshot_file" >> "$combined"
+done
+awk '!seen[$0]++' "$combined" > WHITE_LIST_PROXY_COLLECTION.txt
 
 tmp=$(mktemp)
 new=$(mktemp)
