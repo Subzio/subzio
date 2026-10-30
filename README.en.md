@@ -13,7 +13,8 @@ The lists are apdopted for sing box based clients, and 100% compatible with xray
 - [Full proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio)
 
 ## Repository contents
-- `WHITE_LIST_PROXY_COLLECTION.txt` — main proxy list with the current full set of entries
+- `WHITE_LIST_PROXY_COLLECTION.txt` — main list of unique entries found in snapshots from the last 72 hours
+- `WHITE_LIST_PROXY_COLLECTION/` — filtered snapshots from each run, retained for 72 hours; duplicates within snapshots are preserved
 - `HYSTERIA2.txt` — extracted `hysteria2://` entries. These keys accumulate, with the latest keys at the beginning of the list.
 - `TROJAN.txt` — extracted `trojan://` entries, with the latest keys at the beginning of the list.
 - `XHTTP.txt` — current links with the `type=xhttp` parameter; this list is rebuilt on every run.
@@ -22,6 +23,7 @@ The lists are apdopted for sing box based clients, and 100% compatible with xray
 
 ## Features
 - The lists do not include Russian servers to support access to AI services
+- The main list is rebuilt from snapshots from the last 72 hours; only exact duplicate lines are removed.
 - `HYSTERIA2.txt` contains only `hysteria2://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`
 - `TROJAN.txt` contains only `trojan://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`
 - `XHTTP.txt` contains only links with the `type=xhttp` parameter extracted from `WHITE_LIST_PROXY_COLLECTION.txt`

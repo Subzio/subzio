@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: proxy-list-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -59,12 +63,17 @@ jobs:
           fi
         done
 
-    - name: Process and filter files
+    - name: Process, archive, and build rolling collection
       run: |
-        # Clear output file if it exists
-        > WHITE_LIST_PROXY_COLLECTION.txt
+        set -euo pipefail
+        archive_dir="WHITE_LIST_PROXY_COLLECTION"
+        mkdir -p "$archive_dir"
+        current=$(mktemp)
+        combined=$(mktemp)
+        trap 'rm -f "$current" "$combined"' EXIT
 
-        # Process each file and filter content
+        # Filter this run's inputs, preserving duplicates in the snapshot.
+        shopt -s nullglob
         for file in input/*.txt; do
             echo "Processing $file..."
             awk '
@@ -76,12 +85,29 @@ jobs:
             /type=tcp/ && /sec(urity|ure)=none/ { next }               # Skip type=tcp + security=none (VULNERABLE), order-agnostic
             /sec(urity|ure)=none/ && !/type=xhttp/ { next }            # Skip secure=none without type=xhttp
             { print }                                                  # Output valid lines
-            ' "$file" >> WHITE_LIST_PROXY_COLLECTION.txt
+            ' "$file" >> "$current"
         done
 
-        # Remove duplicate lines while preserving first occurrence order
-        awk '!seen[$0]++' WHITE_LIST_PROXY_COLLECTION.txt > WHITE_LIST_PROXY_COLLECTION.tmp || true
-        mv WHITE_LIST_PROXY_COLLECTION.tmp WHITE_LIST_PROXY_COLLECTION.txt || true
+        now_epoch=$(date -u +%s)
+        now_utc=$(date -u +%Y%m%dT%H%M%SZ)
+        snapshot="$archive_dir/${now_utc}-${now_epoch}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
+        cp "$current" "$snapshot"
+
+        cutoff_epoch=$((now_epoch - 72 * 60 * 60))
+        for snapshot_file in "$archive_dir"/*.txt; do
+          snapshot_name=${snapshot_file##*/}
+          snapshot_epoch=${snapshot_name#*-}
+          snapshot_epoch=${snapshot_epoch%%-*}
+          if [[ "$snapshot_epoch" =~ ^[0-9]+$ ]] && (( snapshot_epoch <= cutoff_epoch )); then
+            rm -f "$snapshot_file"
+          fi
+        done
+
+        # Combine oldest-to-newest snapshots and keep each entry's first occurrence.
+        for snapshot_file in "$archive_dir"/*.txt; do
+          cat "$snapshot_file" >> "$combined"
+        done
+        awk '!seen[$0]++' "$combined" > WHITE_LIST_PROXY_COLLECTION.txt
 
         echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)
 
@@ -146,7 +172,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add WHITE_LIST_PROXY_COLLECTION.txt HYSTERIA2.txt TROJAN.txt XHTTP.txt
+        git add WHITE_LIST_PROXY_COLLECTION WHITE_LIST_PROXY_COLLECTION.txt HYSTERIA2.txt TROJAN.txt XHTTP.txt
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
