@@ -1,4 +1,4 @@
-# 2026-10-30 23:43:34 (133 keys added)
+# 2026-10-31 05:36:20 (142 keys added)
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷%20t.me%2Frjsxrd
@@ -132,14 +132,23 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&sni=co
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2066.163.122.113%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?type=tcp&security=tls&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com&fp=firefox#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%2313%20t.me%2Frjsxrd
 trojan://humanity@194.147.149.54:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@5.44.46.142:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#22 %7C WS%2BTLS %7C SNI%3A www.calmlunch.com %7C IN%3A DE OUT%3A FR %7C RATING%3A 4%2F10%20t.me%2Frjsxrd
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#[452ms TH TH  @vlesstrojan]%20t.me%2Frjsxrd
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#[1704ms IN IN  @vlesstrojan]%20t.me%2Frjsxrd
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?type=tcp&security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443/?type=tcp&security=tls&sni=us-1.1984.love#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 
+# 2026-10-30 23:43:34 (133 keys added)
 # 2026-10-30 19:19:29 (118 keys added)
 # 2026-10-30 19:14:15 (118 keys added)
 # 2026-10-30 17:20:01 (91 keys added)
 # 2026-10-30 12:49:48 (71 keys added)
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2066.163.114.45%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
@@ -150,8 +159,6 @@ trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸%20t.me%2Frjsxrd
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com&insecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20(7)%20t.me%2Frjsxrd
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20t.me%2Frjsxrd
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.27.109.179.sslip.io#🇨🇳 Join+Telegram:@SolVPN 🇨🇳%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20169.197.140.226%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20216.106.186.155%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
@@ -234,9 +241,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&sni=cdn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20216.152.155.59%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&sni=cdn.unlockyourfuturefindyourperfectcareer.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2066.163.112.242%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443/?type=tcp&security=tls&sni=lt-1.1984.love&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443/?type=tcp&security=tls&sni=us-1.1984.love#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 # 2026-10-28 22:31:56 (108 keys added)
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2066.163.118.203%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
