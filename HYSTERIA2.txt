@@ -1,4 +1,4 @@
-# 2026-10-31 12:21:30 (114 keys added)
+# 2026-10-31 18:31:28 (134 keys added)
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs-password=c1b4086fea89914496c7e10967a419216566&descriptions=люби_себя014a40&_t=6462b95f&nonce=fLqAwvwP&descriptions=СвободуИнтернету713&obfs=salamander&sni=hy2-new.aspidnet.xyz&freeinternet=kizyak_vpn1782335286121&security=tls&seq=you_are_beautiful7216&seq=you_are_beautiful4603&freeinternet=kizyak_vpn1793114286594#[666ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
 hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://24266838d888d903594cc6e33910aeeb@2.28.226.197:443?sni=vpn.172908710.dpdns.org&obfs=salamander&obfs-password=27b960aa5b199a215c3a84fd4818e5d2#🇩🇪 Германия 23 Hetzner Online GmbH%20t.me%2Frjsxrd
@@ -113,7 +113,28 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?sni=pl2.nex
 hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 87 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?sni=pl2.nexfile.net#🇵🇱 Польша 26 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@191.217.211.161:20270?sni=pl1.song69.fun#🇵🇱 Польша 32 Kochedykov Egor Aleksandrovich%20t.me%2Frjsxrd
+hysteria2://2bc6428196efb899f544d750bea0c06d@50.7.193.146:443?sni=promo2.betust.net#🇳🇱 Нидерланды 122 FDCservers.net%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 31 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 30 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://b61bd5c6-7f9d-4fa0-8e8e-1eb236c5e4dd@45.88.12.144:443?sni=crt.molniya.sbs#🇩🇪 Германия 75 UXHOST LTD%20t.me%2Frjsxrd
+hysteria2://b61bd5c6-7f9d-4fa0-8e8e-1eb236c5e4dd@45.88.12.85:443?sni=crt.molniya.sbs#🇩🇪 Германия 74 UXHOST LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net#🇵🇱 Польша 7 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?sni=pl2.nexfile.net#🇵🇱 Польша 2 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?sni=pl3.nexfile.net#🇵🇱 Польша 4 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 89 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 29 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.146:4444?sni=pl3.nexfile.net#🇵🇱 Польша 5 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.144:4444?sni=pl2.nexfile.net#🇵🇱 Польша 10 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?sni=pl2.nexfile.net#🇵🇱 Польша 11 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?sni=pl2.nexfile.net#🇵🇱 Польша 3 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?sni=pl2.nexfile.net#🇵🇱 Польша 9 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://b61bd5c6-7f9d-4fa0-8e8e-1eb236c5e4dd@45.88.12.141:443?sni=crt.molniya.sbs#🇩🇪 Германия 77 Intars Rupeiks%20t.me%2Frjsxrd
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@144.31.157.54:443?sni=nl1.obxodvpn.us#🇩🇪 Германия 103 PLAY2GO INTERNATIONAL LIMITED%20t.me%2Frjsxrd
+hysteria2://ee78c844-83b6-4508-b1f9-b3f00c8e0556@167.148.201.99:443?sni=us.mi11o4ka.com#🇺🇸 США 80 MillenialHost Limited%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?sni=bl1.nexfile.net#🇧🇾 Беларусь 4 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?sni=bl1.nexfile.net#🇧🇾 Беларусь 5 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 
+# 2026-10-31 12:21:30 (114 keys added)
 # 2026-10-31 05:36:20 (100 keys added)
 # 2026-10-30 23:43:34 (79 keys added)
 # 2026-10-30 19:19:29 (44 keys added)
