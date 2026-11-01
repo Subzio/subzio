@@ -7,10 +7,13 @@ English version: [README.en.md](README.en.md)
 Списки адаптированны под sing box клиенты и 100% совместимы с xray core.
 
 ## Подиски (прямые ссылки на списки)
+Скопируйте любую ссылку ниже и вставьте её как подписку в клиент вашего устройства:
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
 - [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) - Тут есть обходы БС
+
+---
 
 ## Содержимое репозитория
 - `WHITE_LIST_PROXY_COLLECTION.txt` — основной список уникальных записей, найденных в снимках за последние 72 часа
@@ -36,6 +39,7 @@ English version: [README.en.md](README.en.md)
 ```
 
 ## TODO
+- Живые прокси как отдельный список: Resolve Outer IP + Geo
 - Список прокси для Gemini Api|Web
 
 
