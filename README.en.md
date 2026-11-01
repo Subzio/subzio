@@ -16,8 +16,8 @@ Copy any link below and paste it as a subscription in your client:
 ---
 
 ## Repository contents
-- `WHITE_LIST_PROXY_COLLECTION.txt` — main list of unique entries found in snapshots from the last 72 hours
 - `WHITE_LIST_PROXY_COLLECTION/` — filtered snapshots from each run over the last 72 hours; duplicates within snapshots are preserved
+- `WHITE_LIST_PROXY_COLLECTION.txt` — main list of unique entries found in snapshots from the last 72 hours
 - `HYSTERIA2.txt` — extracted `hysteria2://` entries. These keys accumulate, with the latest keys at the beginning of the list.
 - `TROJAN.txt` — extracted `trojan://` entries. New keys are added to the beginning of the list.
 - `XHTTP.txt` — current list of links with the `type=xhttp` parameter; it is fully rebuilt on each run.
