@@ -6,24 +6,20 @@ English version: [README.en.md](README.en.md)
 
 Списки адаптированны под sing box клиенты и 100% совместимы с xray core.
 
-## Подиски (прямые ссылки на списки)
+---
+
+## Использование
+
+### Подиски (прямые ссылки на списки)
+
 Скопируйте любую ссылку ниже и вставьте её как подписку в клиент вашего устройства:
+
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
 - [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) - Тут есть обходы БС
 
 ---
-
-## Содержимое репозитория
-- `WHITE_LIST_PROXY_COLLECTION/` — отфильтрованные снимки каждого запуска за последние 72 часа; повторы внутри снимков сохраняются. Фильтры исключают российские серверы и некоторые ключи, которые не поддерживаются ядром sing-box.
-- `WHITE_LIST_PROXY_COLLECTION.txt` — общий список записей без дубликатов за последние 72 часа.
-### Фильтры
-- `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
-- `TROJAN.txt` — извлечённые записи вида `trojan://`. Новые ключи добавляются в начало списка.
-- `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`; он полностью пересоздаётся при каждом запуске.
-- `source-list.txt` — список источников
-- `input/` — временная папка
 
 ## Фичи
 
@@ -33,17 +29,42 @@ English version: [README.en.md](README.en.md)
 - `TROJAN.txt` содержит только ссылки `trojan://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
 - `XHTTP.txt` содержит только ссылки с параметром `type=xhttp`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
 
-## Локальное использование
+---
+
+## Для разработчиков
+
+### Структура репозитория
+
+После каждого запуска `GH Actions` или `./run-local.sh` в папке `WHITE_LIST_PROXY_COLLECTION/` появляется файл с именем `<datetime>-...`. Все доступные на данный момент ключи, взятые из `source-list.txt`, помещаются сюда.
+
+Пока что, фильтры исключают российские серверы и некоторые ключи, параметры которых не поддерживаются ядром sing-box.
+
+`WHITE_LIST_PROXY_COLLECTION.txt` — общий список ~ключей без дубликатов~ за последние 72 часа.
+
+### Списки по протоколам
+
+- `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
+- `TROJAN.txt` — извлечённые записи вида `trojan://`. Новые ключи добавляются в начало списка.
+- `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`; он полностью пересоздаётся при каждом запуске.
+
+### Служебные файлы репозитория
+
+- `source-list.txt` — список источников
+- `input/` — временная папка
+
+### Локальное использование
+
 Запустите симуляцию workflow локально:
 
 ```bash
 ./run-local.sh
 ```
 
-## TODO
+### TODO
+
 - Живые прокси как отдельный список: Resolve Outer IP + Geo
 - Список прокси для Gemini Api|Web
 
-
 ## Участие
-Вы можете предложить источник через pull request.
+
+Вы можете предложить изменения через Pull Request или создав Issue.
