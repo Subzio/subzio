@@ -24,8 +24,8 @@ Copy any link below and paste it as a subscription in your device client:
 
 - Russian servers are excluded from the lists to ensure access to AI services.
 - The main list `WHITE_LIST_PROXY_COLLECTION.txt` is built from servers collected over the last 72 hours.
-- `HYSTERIA2.txt` contains only `hysteria2://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`.
-- `TROJAN.txt` contains only `trojan://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`.
+- `HYSTERIA2.txt` contains only current `hysteria2://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`; it is rebuilt on each run.
+- `TROJAN.txt` contains only current `trojan://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`; it is rebuilt on each run.
 - `XHTTP.txt` contains only links with the `type=xhttp` parameter extracted from `WHITE_LIST_PROXY_COLLECTION.txt`.
 
 ---
@@ -41,8 +41,8 @@ At the moment, the filters exclude Russian servers and some keys whose parameter
 
 ### Protocol-based lists
 
-- `HYSTERIA2.txt` — extracted `hysteria2://` entries. These keys accumulate, with the newest entries at the top of the list.
-- `TROJAN.txt` — extracted `trojan://` entries. New entries are added to the top of the list.
+- `HYSTERIA2.txt` — current `hysteria2://` entries from the combined list; it is rebuilt on each run.
+- `TROJAN.txt` — current `trojan://` entries from the combined list; it is rebuilt on each run.
 - `XHTTP.txt` — current list of links with the `type=xhttp` parameter; it is fully rebuilt on each run.
 
 ### Repository utility files

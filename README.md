@@ -19,15 +19,23 @@ English version: [README.en.md](README.en.md)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
 - [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) - Тут есть обходы БС
 
+### Локальное использование
+
+Запустите симуляцию workflow локально:
+
+```bash
+./run-local.sh
+```
+
 ---
 
 ## Фичи
 
 - Чтобы обеспечить доступ к AI-сервисам, в списках нет российских серверов.
 - Общий список `WHITE_LIST_PROXY_COLLECTION.txt` состоит из серверов собранных за последние 72 часа.
-- `HYSTERIA2.txt` содержит только ссылки `hysteria2://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
-- `TROJAN.txt` содержит только ссылки `trojan://`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
-- `XHTTP.txt` содержит только ссылки с параметром `type=xhttp`, извлечённые из `WHITE_LIST_PROXY_COLLECTION.txt`
+- `HYSTERIA2.txt` содержит ссылки `hysteria2://`
+- `TROJAN.txt` содержит ссылки `trojan://`
+- `XHTTP.txt` содержит только ссылки с параметром `type=xhttp`
 
 ---
 
@@ -43,22 +51,14 @@ English version: [README.en.md](README.en.md)
 
 ### Списки по протоколам
 
-- `HYSTERIA2.txt` — извлечённые записи вида `hysteria2://`. Эти ключи накапливаются, последние ключи в начале списка.
-- `TROJAN.txt` — извлечённые записи вида `trojan://`. Новые ключи добавляются в начало списка.
-- `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`; он полностью пересоздаётся при каждом запуске.
+- `HYSTERIA2.txt` — текущие записи вида `hysteria2://` из общего списка
+- `TROJAN.txt` — текущие записи вида `trojan://`
+- `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`
 
 ### Служебные файлы репозитория
 
 - `source-list.txt` — список источников
 - `input/` — временная папка
-
-### Локальное использование
-
-Запустите симуляцию workflow локально:
-
-```bash
-./run-local.sh
-```
 
 ### TODO
 

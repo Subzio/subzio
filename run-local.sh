@@ -86,14 +86,11 @@ awk 'BEGIN { IGNORECASE = 0 } /^(hysteria2|hy2):\/\// { print }' WHITE_LIST_PROX
 if [ -s "$new" ]; then
   now=$(date '+%Y-%m-%d %H:%M:%S')
   count=$(wc -l < "$new" | tr -d '[:space:]')
-  printf '# %s (%s keys added)\n' "$now" "$count" > "$tmp"
+  printf '# %s (%s current keys)\n' "$now" "$count" > "$tmp"
   cat "$new" >> "$tmp"
   printf '\n' >> "$tmp"
 fi
-if [ -f HYSTERIA2.txt ]; then
-  cat HYSTERIA2.txt >> "$tmp"
-fi
-awk '!seen[$0]++' "$tmp" > HYSTERIA2.txt || true
+mv "$tmp" HYSTERIA2.txt
 rm -f "$tmp" "$new"
 
 tmp=$(mktemp)
@@ -102,14 +99,11 @@ awk '/^trojan:\/\// { print }' WHITE_LIST_PROXY_COLLECTION.txt > "$new"
 if [ -s "$new" ]; then
   now=$(date '+%Y-%m-%d %H:%M:%S')
   count=$(wc -l < "$new" | tr -d '[:space:]')
-  printf '# %s (%s keys added)\n' "$now" "$count" > "$tmp"
+  printf '# %s (%s current keys)\n' "$now" "$count" > "$tmp"
   cat "$new" >> "$tmp"
   printf '\n' >> "$tmp"
 fi
-if [ -f TROJAN.txt ]; then
-  cat TROJAN.txt >> "$tmp"
-fi
-awk '!seen[$0]++' "$tmp" > TROJAN.txt || true
+mv "$tmp" TROJAN.txt
 rm -f "$tmp" "$new"
 
 tmp=$(mktemp)
@@ -127,4 +121,3 @@ echo "Extracted xhttp lines:" "$(wc -l < "$new")"
 rm -f "$new"
 
 echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)
-
