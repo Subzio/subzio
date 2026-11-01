@@ -1,4 +1,4 @@
-# 2026-11-01 13:16:46 (201 keys added)
+# 2026-11-01 18:54:16 (210 keys added)
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷%20t.me%2Frjsxrd
@@ -200,7 +200,17 @@ trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zest
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=edge&type=ws&host=www.volumeroot.com&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@194.154.29.72:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&sni=www.discovergreatjobsandadvanceyourcareer.com#[2359ms Испания ES 🇪🇸 @vlesstrojan]%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#🇨🇱 Join+Telegram:@SolVPN 🇨🇱%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#[2326ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=in002.zestapp778.com#[435ms IN IN  @vlesstrojan]%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[1111ms US US  @vlesstrojan]%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com#[1202ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#[1627ms Швейцария CH 🇨🇭 @vlesstrojan]%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com#[1102ms US US  @vlesstrojan]%20t.me%2Frjsxrd
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#[574ms IN IN  @vlesstrojan]%20t.me%2Frjsxrd
 
+# 2026-11-01 13:16:46 (201 keys added)
 # 2026-11-01 05:58:07 (190 keys added)
 # 2026-10-31 23:21:25 (187 keys added)
 # 2026-10-31 18:31:28 (184 keys added)
@@ -249,7 +259,6 @@ trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&sni=api.nextjobopportunityandclaimyouridealrole.com&insecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20(9)%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&insecure=0&type=tcp&allowInsecure=0&sni=www.discovergreatjobsandadvanceyourcareer.com#[1363ms Швеция SE 🇸🇪 @vlesstrojan]%20t.me%2Frjsxrd
 trojan://humanity@172.66.40.99:443?security=tls&sni=www.trusteeforward.com&fp=firefox&alpn=http%2F1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#Channel%20%3A%20%40Daily_Configs%20t.me%2Frjsxrd
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#🇨🇱 Join+Telegram:@SolVPN 🇨🇱%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com&insecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20(30)%20t.me%2Frjsxrd
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#[533ms Люксембург LU 🇱🇺 @vlesstrojan]%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com#[2122ms Швеция SE 🇸🇪 @vlesstrojan]%20t.me%2Frjsxrd
