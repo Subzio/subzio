@@ -1,4 +1,4 @@
-# 2026-11-01 05:58:07 (190 keys added)
+# 2026-11-01 13:16:46 (201 keys added)
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷%20t.me%2Frjsxrd
@@ -189,7 +189,19 @@ trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&host=www.cal
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸%20t.me%2Frjsxrd
 trojan://460c410a-7d68-5128-a1b0-6484d43dc893@45.151.101.43:28880?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=51009%2FZcaMzBHUB4&sni=fi1.24magic-up.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&fp=chrome&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦%20t.me%2Frjsxrd
+trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?type=tcp&security=tls&fp=chrome&sni=us001.zestapp778.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#[494ms IN IN  @vlesstrojan]%20t.me%2Frjsxrd
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=edge&type=ws&host=www.volumeroot.com&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@194.154.29.72:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 
+# 2026-11-01 05:58:07 (190 keys added)
 # 2026-10-31 23:21:25 (187 keys added)
 # 2026-10-31 18:31:28 (184 keys added)
 # 2026-10-31 12:21:30 (170 keys added)
