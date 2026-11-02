@@ -62,6 +62,7 @@ English version: [README.en.md](README.en.md)
 
 ### TODO
 
+- Better dedublication by creds (login@server)
 - Живые прокси как отдельный список: Resolve Outer IP + Geo
 - Список прокси для Gemini Api|Web
 
