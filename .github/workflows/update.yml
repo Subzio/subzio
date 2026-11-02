@@ -94,19 +94,18 @@ jobs:
         cp "$current" "$snapshot"
 
         cutoff_epoch=$((now_epoch - 72 * 60 * 60))
-        for snapshot_file in "$archive_dir"/*.txt; do
+        snapshot_files=("$archive_dir"/*.txt)
+        for ((snapshot_index=${#snapshot_files[@]} - 1; snapshot_index >= 0; snapshot_index--)); do
+          snapshot_file=${snapshot_files[snapshot_index]}
           snapshot_name=${snapshot_file##*/}
           snapshot_epoch=${snapshot_name#*-}
           snapshot_epoch=${snapshot_epoch%%-*}
-          if [[ "$snapshot_epoch" =~ ^[0-9]+$ ]] && (( snapshot_epoch <= cutoff_epoch )); then
-            rm -f "$snapshot_file"
+          if [[ "$snapshot_epoch" =~ ^[0-9]+$ ]] && (( snapshot_epoch > cutoff_epoch && snapshot_epoch <= now_epoch )); then
+            cat "$snapshot_file" >> "$combined"
           fi
         done
 
-        # Combine oldest-to-newest snapshots and keep each entry's first occurrence.
-        for snapshot_file in "$archive_dir"/*.txt; do
-          cat "$snapshot_file" >> "$combined"
-        done
+        # Newest snapshots come first, so exact duplicates retain the newest occurrence.
         awk '!seen[$0]++' "$combined" > WHITE_LIST_PROXY_COLLECTION.txt
 
         echo "Lines & filename:" $(wc -l WHITE_LIST_PROXY_COLLECTION.txt)

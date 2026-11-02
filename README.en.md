@@ -23,7 +23,7 @@ Copy any link below and paste it as a subscription in your device client:
 ## Features
 
 - Russian servers are excluded from the lists to ensure access to AI services.
-- The main list `WHITE_LIST_PROXY_COLLECTION.txt` is built from servers collected over the last 72 hours.
+- The main list `WHITE_LIST_PROXY_COLLECTION.txt` uses snapshots from the last 72 hours, newest first; when an entry appears more than once, the newest snapshot takes precedence.
 - `HYSTERIA2.txt` contains only current `hysteria2://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`; it is rebuilt on each run.
 - `TROJAN.txt` contains only current `trojan://` links extracted from `WHITE_LIST_PROXY_COLLECTION.txt`; it is rebuilt on each run.
 - `XHTTP.txt` contains only links with the `type=xhttp` parameter extracted from `WHITE_LIST_PROXY_COLLECTION.txt`.
@@ -33,7 +33,7 @@ Copy any link below and paste it as a subscription in your device client:
 ## For developers
 
 ### Repository structure
-After each GitHub Actions run or `./run-local.sh` execution, a new file named `<datetime>-...` is added to `WHITE_LIST_PROXY_COLLECTION/`. It contains all currently available keys gathered from `source-list.txt`.
+After each GitHub Actions run or `./run-local.sh` execution, a new file named `<datetime>-...` is added to `WHITE_LIST_PROXY_COLLECTION/`. Snapshots are not automatically deleted; only snapshots from the last 72 hours are included in the main list.
 
 At the moment, the filters exclude Russian servers and some keys whose parameters are not supported by the sing-box core.
 
