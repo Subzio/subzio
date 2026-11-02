@@ -33,16 +33,13 @@ Run the local workflow simulation:
 
 ### Repository structure
 
-- `WHITE_LIST_PROXY_COLLECTION.txt` — the combined list
-- `HYSTERIA2.txt` contains `hysteria2://` links
-- `TROJAN.txt` contains `trojan://` links
-- `XHTTP.txt` contains only links with the `type=xhttp` parameter
+`WHITE_LIST_PROXY_COLLECTION.txt` — **the combined list**.
 
-After each GitHub Actions run or `./run-local.sh` execution, a file named `<datetime>-...` is added to `WHITE_LIST_PROXY_COLLECTION/`. Only snapshots from the last 72 hours are included in the combined list.
+After each GitHub Actions run or `./run-local.sh` execution, a file named `<datetime>-...` is added to `WHITE_LIST_PROXY_COLLECTION/`. Only snapshots from the last 72 hours are included in *the combined list*.
 
 ### Protocol-based lists
 
-- `HYSTERIA2.txt` — current `hysteria2://` entries from the combined list
+- `HYSTERIA2.txt` — current `hysteria2://` entries from *the combined list*
 - `TROJAN.txt` — current `trojan://` entries
 - `XHTTP.txt` — current links with the `type=xhttp` parameter
 

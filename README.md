@@ -33,18 +33,13 @@ English version: [README.en.md](README.en.md)
 
 ### Структура репозитория
 
-- Общий список `WHITE_LIST_PROXY_COLLECTION.txt`
-- `HYSTERIA2.txt` содержит ссылки `hysteria2://`
-- `TROJAN.txt` содержит ссылки `trojan://`
-- `XHTTP.txt` содержит только ссылки с параметром `type=xhttp`
+**Общий список** — `WHITE_LIST_PROXY_COLLECTION.txt`.
 
-После каждого запуска `GH Actions` или `./run-local.sh` в папке `WHITE_LIST_PROXY_COLLECTION/` появляется файл с именем `<datetime>-...`. В общий список включаются только снимки за последние 72 часа.
-
-
+После каждого запуска `GH Actions` или `./run-local.sh` в папке `WHITE_LIST_PROXY_COLLECTION/` появляется файл с именем `<datetime>-...`. В *общий список* включаются только снимки за последние 72 часа.
 
 ### Списки по протоколам
 
-- `HYSTERIA2.txt` — текущие записи вида `hysteria2://` из общего списка
+- `HYSTERIA2.txt` — текущие записи вида `hysteria2://` из *общего списка*
 - `TROJAN.txt` — текущие записи вида `trojan://`
 - `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`
 
