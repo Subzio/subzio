@@ -38,7 +38,7 @@ English version: [README.en.md](README.en.md)
 - `TROJAN.txt` содержит ссылки `trojan://`
 - `XHTTP.txt` содержит только ссылки с параметром `type=xhttp`
 
-После каждого запуска `GH Actions` или `./run-local.sh` в папке `WHITE_LIST_PROXY_COLLECTION/` появляется файл с именем `<datetime>-...`. Снимки автоматически не удаляются; в общий список включаются только снимки за последние 72 часа.
+После каждого запуска `GH Actions` или `./run-local.sh` в папке `WHITE_LIST_PROXY_COLLECTION/` появляется файл с именем `<datetime>-...`. В общий список включаются только снимки за последние 72 часа.
 
 
 

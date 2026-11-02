@@ -38,7 +38,7 @@ Run the local workflow simulation:
 - `TROJAN.txt` contains `trojan://` links
 - `XHTTP.txt` contains only links with the `type=xhttp` parameter
 
-After each GitHub Actions run or `./run-local.sh` execution, a file named `<datetime>-...` is added to `WHITE_LIST_PROXY_COLLECTION/`. Snapshots are not automatically deleted; only snapshots from the last 72 hours are included in the combined list.
+After each GitHub Actions run or `./run-local.sh` execution, a file named `<datetime>-...` is added to `WHITE_LIST_PROXY_COLLECTION/`. Only snapshots from the last 72 hours are included in the combined list.
 
 ### Protocol-based lists
 
