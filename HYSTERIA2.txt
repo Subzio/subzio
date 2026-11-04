@@ -1,13 +1,43 @@
-# 2026-11-03 23:18:41 (407 current keys)
-hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3AEKksNGKEBp8PXC1msSPh-Nfurs0VeCN0xPSnf1UsVH8@84.38.184.87:36118?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@64.32.13.230:443?sni=3afac95e-tmm5c0-u3xqxa-1q91p.los.hyhuawei.com#🇺🇸 США 30 Sharktech%20t.me%2Frjsxrd
+# 2026-11-04 06:12:51 (386 current keys)
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 11 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 14 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://40546f3a-0590-4a5a-a104-6eb2e6ba5f0c@194.113.235.254:23661?sni=fr.verymad.net#🇫🇷 Франция 19 GLOBAL CONNECTIVITY SOLUTIONS LLP%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?sni=pl1.nexfile.net#🇵🇱 Польша 12 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@64.32.13.230:443?sni=35172c9b-tmm5c0-u10a65-1os43.los.hyhuawei.com#🇺🇸 США 38 Sharktech%20t.me%2Frjsxrd
+hysteria2://44e76f8c-7362-11ec-bb74-f23c9164ca5d@64.32.13.230:443?sni=9507c324-tnhmo0-tohhws-zn8y.los.hyhuawei.com#🇺🇸 США 54 Sharktech%20t.me%2Frjsxrd
+hysteria2://c594c7ec-8b10-11ef-a2b8-f23c9164ca5d@64.32.13.230:443?sni=83401821-tnhmo0-toktib-1hhyy.los.hyhuawei.com#🇺🇸 США 35 Sharktech%20t.me%2Frjsxrd
+hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@64.32.13.230:443?sni=402cf505-tly2o0-tn3jhp-1qthu.los.hyhuawei.com#🇺🇸 США 39 Sharktech%20t.me%2Frjsxrd
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@64.32.13.230:443?sni=8b327214-tm3mo0-tlvsde-1rnrp.los.hyhuawei.com#🇺🇸 США 61 Sharktech%20t.me%2Frjsxrd
+hysteria2://8bb68d04-6973-11ee-b518-f23c9164ca5d@64.32.13.230:443?sni=73395328-tmm5c0-tpv2b9-1o8ak.los.hyhuawei.com#🇺🇸 США 27 Sharktech%20t.me%2Frjsxrd
+hysteria2://861726bb-c61a-b0e0-99fa-5ddfdcf21902@64.32.13.230:443?sni=4c37a418-tmm5c0-ttxkqc-e06r.los.hyhuawei.com#🇺🇸 США 2 Sharktech%20t.me%2Frjsxrd
+hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@64.32.13.230:443?sni=35b28de6-tmkao0-tnnrly-g43g.los.hyhuawei.com#🇺🇸 США 57 Sharktech%20t.me%2Frjsxrd
+hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@64.32.13.230:443?sni=42fab11a-tm96o0-tnggms-6gn6.los.hyhuawei.com#🇺🇸 США 50 Sharktech%20t.me%2Frjsxrd
+hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@64.32.13.230:443?sni=4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com#🇺🇸 США 16 Sharktech%20t.me%2Frjsxrd
+hysteria2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@64.32.13.230:443?sni=24407910-tmm5c0-trnd2c-jjv2.los.hyhuawei.com#🇺🇸 США 4 Sharktech%20t.me%2Frjsxrd
+hysteria2://460749c2-bcef-11ee-89fc-f23c913c8d2b@64.32.13.230:443?sni=6312058b-tmm5c0-tubliy-1la7v.los.hyhuawei.com#🇺🇸 США 6 Sharktech%20t.me%2Frjsxrd
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@64.32.13.230:443?sni=5333a31b-tmm5c0-tujecz-1qkeg.los.hyhuawei.com#🇺🇸 США 48 Sharktech%20t.me%2Frjsxrd
+hysteria2://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@64.32.13.230:443?sni=5e9b967f-tmm5c0-u4ai7k-z7a1.los.hyhuawei.com#🇺🇸 США 51 Sharktech%20t.me%2Frjsxrd
+hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@64.32.13.230:443?sni=429a8a17-tly2o0-0-1rfon.los.hyhuawei.com#🇺🇸 США 11 Sharktech%20t.me%2Frjsxrd
+hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@64.32.13.230:443?sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#🇺🇸 США 15 Sharktech%20t.me%2Frjsxrd
+hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@64.32.13.230:443?sni=85e1018a-tmm5c0-tzzpok-1sllg.los.hyhuawei.com#🇺🇸 США 52 Sharktech%20t.me%2Frjsxrd
+hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@64.32.13.230:443?sni=3afac95e-tmm5c0-u3xqxa-1q91p.los.hyhuawei.com#🇺🇸 США 30 Sharktech%20t.me%2Frjsxrd
+hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@64.32.13.230:443?sni=fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com#🇺🇸 США 28 Sharktech%20t.me%2Frjsxrd
+hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@64.32.13.230:443?sni=13f3ae7f-tmm5c0-to0mym-z93q.los.hyhuawei.com#🇺🇸 США 21 Sharktech%20t.me%2Frjsxrd
+hysteria2://f860f2da-5035-11ed-bb74-f23c9164ca5d@64.32.13.230:443?sni=36cbcc3d-tmm5c0-tnt75r-1k8ga.los.hyhuawei.com#🇺🇸 США 25 Sharktech%20t.me%2Frjsxrd
+hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@64.32.13.230:443?sni=271a2744-tm96o0-tne5x4-1rfon.los.hyhuawei.com#🇺🇸 США 56 Sharktech%20t.me%2Frjsxrd
+hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 84 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
+hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@64.32.13.230:443?sni=6f9a8496-tmm5c0-txkkcl-1fli7.los.hyhuawei.com#🇺🇸 США 19 Sharktech%20t.me%2Frjsxrd
+hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@172.236.139.236:443?sni=0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com#🇸🇬 Сингапур 4 Akamai Technologies, Inc.%20t.me%2Frjsxrd
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 1 Interkvm Host SRL%20t.me%2Frjsxrd
+hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443?sni=me17.msjia8844.site&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq#🇹🇷 Турция 12 Netlen Internet Hizmetleri Ltd. Sti.%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 4 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23252%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3AEKksNGKEBp8PXC1msSPh-Nfurs0VeCN0xPSnf1UsVH8@84.38.184.87:36118?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://ae5338ae-9a70-58c9-3d47-7d54a5675715@64.32.13.230:443?sni=f98f32f1-tmm5c0-tv7dx2-py5w.los.hyhuawei.com#🇺🇸 США 14 Sharktech%20t.me%2Frjsxrd
 hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@64.32.13.230:443?sni=0a2298d1-tm3mo0-0-1rfon.los.hyhuawei.com#🇺🇸 США 9 Sharktech%20t.me%2Frjsxrd
-hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@64.32.13.230:443?sni=35b28de6-tmkao0-tnnrly-g43g.los.hyhuawei.com#🇺🇸 США 57 Sharktech%20t.me%2Frjsxrd
 hysteria2://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@64.32.13.230:443?sni=ed4ccc41-tmm5c0-tpsg94-1jbj0.los.hyhuawei.com#🇺🇸 США 49 Sharktech%20t.me%2Frjsxrd
 hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@64.32.13.230:443?sni=d84e799d-tm96o0-0-1rnrp.los.hyhuawei.com#🇺🇸 США 60 Sharktech%20t.me%2Frjsxrd
-hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@64.32.13.230:443?sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#🇺🇸 США 15 Sharktech%20t.me%2Frjsxrd
 hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@64.32.13.230:443?sni=0b28dbb8-tmm5c0-tn3jhp-1qthu.los.hyhuawei.com#🇺🇸 США 32 Sharktech%20t.me%2Frjsxrd
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@64.32.13.230:443?sni=807fc395-tmm5c0-u5ip77-duku.los.hyhuawei.com#🇺🇸 США 29 Sharktech%20t.me%2Frjsxrd
 hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@64.32.13.230:443?sni=9df552ab-tmkao0-u1vxv2-v3c2.los.hyhuawei.com#🇺🇸 США 33 Sharktech%20t.me%2Frjsxrd
@@ -15,7 +45,6 @@ hysteria2://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@64.32.13.230:443?sni=03aa25ad-t
 hysteria2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@64.32.13.230:443?sni=1ba94b4c-tmm5c0-tw661e-1isea.los.hyhuawei.com#🇺🇸 США 24 Sharktech%20t.me%2Frjsxrd
 hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@64.32.13.230:443?sni=7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhuawei.com#🇺🇸 США 40 Sharktech%20t.me%2Frjsxrd
 hysteria2://a18ef18e-293a-11ef-b76e-f23c91cfbbc9@64.32.13.230:443?sni=2bc9e946-tmm5c0-u1dafb-1ro8s.los.hyhuawei.com#🇺🇸 США 44 Sharktech%20t.me%2Frjsxrd
-hysteria2://c594c7ec-8b10-11ef-a2b8-f23c9164ca5d@64.32.13.230:443?sni=83401821-tnhmo0-toktib-1hhyy.los.hyhuawei.com#🇺🇸 США 35 Sharktech%20t.me%2Frjsxrd
 hysteria2://fcd39788-ca23-11ed-86e2-f23c913c8d2b@64.32.13.230:443?sni=99a517d4-tmm5c0-u2e9xs-2b2n.los.hyhuawei.com#🇺🇸 США 53 Sharktech%20t.me%2Frjsxrd
 hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3A98Va5kVHKW06htuFKRbjrX7rWPTNQI4Jlee5xTFNAW0@84.38.184.87:36116?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 13 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
@@ -25,7 +54,6 @@ hysteria2://80cbaaec-caff-4181-8539-ea6e51731007@45.88.12.119:443?sni=crt.oneclo
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?sni=pl1.nexfile.net#🇵🇱 Польша 1 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 10 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443?sni=me17.msjia8844.site&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq#🇹🇷 Турция 15 Netlen Internet Hizmetleri Ltd. Sti.%20t.me%2Frjsxrd
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3A98Va5kVHKW06htuFKRbjrX7rWPTNQI4Jlee5xTFNAW0@84.38.184.87:36116?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://1793747701:04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab:98Va5kVHKW06htuFKRbjrX7rWPTNQI4Jlee5xTFNAW0@84.38.184.87:36116?sni=hu.lumacache.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3AEKksNGKEBp8PXC1msSPh-Nfurs0VeCN0xPSnf1UsVH8@84.38.184.87:36118?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
@@ -57,10 +85,8 @@ hysteria2://9bfd0dde-957e-11ec-a8bf-f23c91cfbbc9@64.32.13.230:443?sni=6ec450f1-t
 hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@64.32.13.230:443?sni=7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhuawei.com#🇺🇸 США 35 Sharktech%20t.me%2Frjsxrd
 hysteria2://2c01eae6-0b6a-11ee-a058-f23c91369f2d@64.32.13.230:443?sni=e3e217d6-tmm5c0-tzkd63-1jr1u.los.hyhuawei.com#🇺🇸 США 50 Sharktech%20t.me%2Frjsxrd
 hysteria2://9d80dd14-ac44-11ee-a116-f23c9164ca5d@64.32.13.230:443?sni=b2535a8d-tmm5c0-twjnjx-1q9g2.los.hyhuawei.com#🇺🇸 США 5 Sharktech%20t.me%2Frjsxrd
-hysteria2://8bb68d04-6973-11ee-b518-f23c9164ca5d@64.32.13.230:443?sni=73395328-tmm5c0-tpv2b9-1o8ak.los.hyhuawei.com#🇺🇸 США 27 Sharktech%20t.me%2Frjsxrd
 hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@64.32.13.230:443?sni=ea01572c-tmm5c0-tnhx9s-1rnrp.los.hyhuawei.com#🇺🇸 США 3 Sharktech%20t.me%2Frjsxrd
 hysteria2://adbd0a82-3336-11ed-bd7c-f23c913c8d2b@64.32.13.230:443?sni=99ae88c3-tmm5c0-truoje-1uni.los.hyhuawei.com#🇺🇸 США 19 Sharktech%20t.me%2Frjsxrd
-hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@64.32.13.230:443?sni=4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com#🇺🇸 США 16 Sharktech%20t.me%2Frjsxrd
 hysteria2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@64.32.13.230:443?sni=be688289-tmm5c0-u1q5od-t6fv.los.hyhuawei.com#🇺🇸 США 11 Sharktech%20t.me%2Frjsxrd
 hysteria2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@64.32.13.230:443?sni=35172c9b-tmm5c0-u10a65-1os43.los.hyhuawei.com#🇺🇸 США 39 Sharktech%20t.me%2Frjsxrd
 hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@64.32.13.230:443?sni=9df552ab-tmkao0-u1vxv2-v3c2.los.hyhuawei.com#🇺🇸 США 34 Sharktech%20t.me%2Frjsxrd
@@ -68,7 +94,6 @@ hysteria2://9a8e6575-0564-4c3a-8b46-8f723828daf6@82.47.22.70:443?sni=ee.ahuel.ne
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?sni=lv2.nexfile.net#🇱🇻 Латвия 5 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://9a8e6575-0564-4c3a-8b46-8f723828daf6@89.187.144.116:443?sni=cz.ahuel.net#🇨🇿 Чехия 1 Coolhousing s.r.o.%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 3 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23252%20t.me%2Frjsxrd
 hysteria2://982c68b1-b0eb-4182-9581-2c6072a140ab@188.225.77.106:443?sni=hcccipmj.mtrxnet.click&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs-password=c1b4086fea89914496c7e10967a419216566&nonce=fLqAwvwP&obfs=salamander&freeinternet=kizyak_vpn1782335286121&seq=you_are_beautiful7216&security=tls&seq=you_are_beautiful4603&sni=hy2-new.aspidnet.xyz&_t=6462b95f&nonce=sIuiztk8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202a12%3A3200%3A1002%3A6%3A%3A1%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@64.32.13.230:443?sni=f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com#🇺🇸 США 45 Sharktech%20t.me%2Frjsxrd
@@ -100,8 +125,6 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexf
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 21 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://ripa841juk7gwn4t@31.76.241.169:10005?sni=de.c0d1xdev.xyz&obfs=salamander&obfs-password=7kydvvvn3bwt66ff#🇩🇪 Германия 57 NODE HOST LIMITED%20t.me%2Frjsxrd
 hysteria2://ripa841juk7gwn4t@144.31.28.98:10005?sni=fi.c0d1xdev.xyz&obfs=salamander&obfs-password=r17byfj5m4984tx7#🇫🇮 Финляндия 29 NODE HOST LIMITED%20t.me%2Frjsxrd
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 1 Interkvm Host SRL%20t.me%2Frjsxrd
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 4 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls&sni=hy2-new.aspidnet.xyz#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://2_hysteria2_fastlane_py5fqull8:YSiqlrPoldENlVON5Nxsqglh91KjFitK@130.49.219.99:1935?sni=at3.h.fastlanehosting.ru#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Liezen%20District%20%7C%20%5BBL%5D
 hysteria2://austria_hysteria2_fastlane_2400aehw4%3ARWnDZi17ezmKLVZpnSr81AXwDDcA6YaK@94.228.163.122:1935?sni=at4.h.fastlanehosting.ru#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
@@ -362,48 +385,4 @@ hysteria2://adbd0a82-3336-11ed-bd7c-f23c913c8d2b@64.32.13.230:443?sni=99ae88c3-t
 hysteria2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@64.32.13.230:443?sni=be688289-tmm5c0-u1q5od-t6fv.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://bdf3e15e-c64c-11ea-82ef-f23c9164ca5d@64.32.13.230:443?sni=6b9f9b99-tmm5c0-tsdg75-tlhh.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@64.32.13.230:443?sni=3afac95e-tmm5c0-u3xqxa-1q91p.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%8D%97%E9%9D%9E_110111023%20t.me%2Frjsxrd
-hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@64.32.13.230:443?sni=42fab11a-tm96o0-tnggms-6gn6.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 24 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 26 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444?sni=fl3.nexfile.net#🇫🇮 Финляндия 25 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@144.31.157.54:443?sni=nl1.obxodvpn.us#🇩🇪 Германия 105 PLAY2GO INTERNATIONAL LIMITED%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net#🇵🇱 Польша 2 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%8D%97%E9%9D%9E_110103023%20t.me%2Frjsxrd
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443?sni=hy.cardlist24.shop#🇺🇸 США 75 Timeweb, LLP%20t.me%2Frjsxrd
-hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@64.32.13.230:443?sni=0a2298d1-tm3mo0-0-1rfon.los.hyhuawei.com#🇺🇸 США 70 Sharktech%20t.me%2Frjsxrd
-hysteria2://ee78c844-83b6-4508-b1f9-b3f00c8e0556@167.148.201.99:443?sni=us.mi11o4ka.com#🇺🇸 США 83 MillenialHost Limited%20t.me%2Frjsxrd
-hysteria2://fcd39788-ca23-11ed-86e2-f23c913c8d2b@112.120.123.140:443?sni=2d6326d2-tmm5c0-u2e9xs-2b2n.nw4.hyhuawei.com#🇭🇰 Гонконг 9 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@112.120.123.140:443?sni=99d14fff-tmm5c0-tmg311-141tv.nw4.hyhuawei.com#🇭🇰 Гонконг 4 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://44e76f8c-7362-11ec-bb74-f23c9164ca5d@112.120.123.140:443?sni=8aeab52c-tnhmo0-tohhws-zn8y.nw4.hyhuawei.com#🇭🇰 Гонконг 3 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://f7d95364-607b-11ee-93af-f23c91369f2d@112.120.123.140:443?sni=3b4c630e-tmm5c0-tv7zgh-1ijh5.nw4.hyhuawei.com#🇭🇰 Гонконг 5 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://f93486ce-cc84-11ed-9e98-f23c913c8d2b@112.120.123.140:443?sni=cb5bf3d8-tmeqo0-0-1jcwu.nw4.hyhuawei.com#🇭🇰 Гонконг 8 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@112.120.123.140:443?sni=bfe4e87e-tmm5c0-twj07b-fm2v.nw4.hyhuawei.com#🇭🇰 Гонконг 7 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://bb85e074-b0c2-11ea-ad28-f23c913c8d2b@112.120.123.140:443?sni=85715c75-tmm5c0-tncdxq-m0b9.nw4.hyhuawei.com#🇭🇰 Гонконг 21 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://a2313fba-74a6-11ed-a8bf-f23c91cfbbc9@112.120.123.140:443?sni=b3dfb3ed-tmm5c0-trg4wh-z65w.nw4.hyhuawei.com#🇭🇰 Гонконг 10 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9@112.120.123.140:443?sni=525b1a38-tly2o0-tn5bnx-19xg1.nw4.hyhuawei.com#🇭🇰 Гонконг 1 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@112.120.123.140:443?sni=11158b9a-tmm5c0-u3xqxa-1q91p.nw4.hyhuawei.com#🇭🇰 Гонконг 20 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@112.120.123.140:443?sni=f3ca53e4-tmm5c0-txkkcl-1fli7.nw4.hyhuawei.com#🇭🇰 Гонконг 25 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@112.120.123.140:443?sni=fa86aac8-tmeqo0-0-1imi4.nw4.hyhuawei.com#🇭🇰 Гонконг 13 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@112.120.123.140:443?sni=89ff7d04-tm3mo0-tlvsde-1rnrp.nw4.hyhuawei.com#🇭🇰 Гонконг 27 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@112.120.123.140:443?sni=44577f17-tm96o0-tne5x4-1rfon.nw4.hyhuawei.com#🇭🇰 Гонконг 24 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://48ef13ac-d89e-4da0-8db4-c6aa72db4918@191.217.211.161:21374?sni=pl1.song69.fun#🇵🇱 Польша 12 Kochedykov Egor Aleksandrovich%20t.me%2Frjsxrd
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@191.217.211.161:20270?sni=pl1.song69.fun#🇵🇱 Польша 13 Kochedykov Egor Aleksandrovich%20t.me%2Frjsxrd
-hysteria2://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@112.120.123.140:443?sni=9fc34650-tmm5c0-tmj4pk-1kcpe.nw4.hyhuawei.com#🇭🇰 Гонконг 6 PCCW IMS Limited%20t.me%2Frjsxrd
-hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@112.120.123.140:443?sni=a30d91ee-tmm5c0-ttx5yr-1j0y6.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@112.120.123.140:443?sni=c58136f7-tmm5c0-trnd2c-jjv2.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com:443?sni=0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@112.120.123.140:443?sni=9fc34650-tmm5c0-tmj4pk-1kcpe.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@112.120.123.140:443?sni=bfe4e87e-tmm5c0-twj07b-fm2v.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@112.120.123.140:443?sni=3d0bb862-tm96o0-tnhquc-1j0a4.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://526a1128-7487-11ee-9bca-f23c913c8d2b@112.120.123.140:443?sni=aecfea9b-tmm5c0-tpw4i4-1pckg.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://5acc7a7c-d7ea-11eb-8673-f23c9164ca5d@112.120.123.140:443?sni=7017cade-tmm5c0-u1dz9j-12hj8.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://8f99107c-f091-11ee-9935-f23c9164ca5d@112.120.123.140:443?sni=f7afb605-tmm5c0-tvh2gy-1qzi1.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://a2313fba-74a6-11ed-a8bf-f23c91cfbbc9@112.120.123.140:443?sni=b3dfb3ed-tmm5c0-trg4wh-z65w.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@112.120.123.140:443?sni=818667a4-tmm5c0-tpsg94-1jbj0.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@112.120.123.140:443?sni=11158b9a-tmm5c0-u3xqxa-1q91p.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@112.120.123.140:443?sni=193d0c41-tm96o0-tnggms-6gn6.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@112.120.123.140:443?sni=51cc2d6e-tmm5c0-tw661e-1isea.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9@112.120.123.140:443?sni=525b1a38-tly2o0-tn5bnx-19xg1.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://f609abb4-ed17-11ee-9fa2-f23c9164ca5d@112.120.123.140:443?sni=59c70bb8-tmm5c0-txfm0f-1qxa1.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 
