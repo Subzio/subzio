@@ -30,7 +30,16 @@ jobs:
         run: go install github.com/sagernet/sing-box/cmd/sing-box@v1.14.4
 
       - name: Install Xray-core
-        run: go install github.com/xtls/xray-core/main@v26.10.31
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/xray-26.10.31.zip"
+          curl -fsSL \
+            https://github.com/XTLS/Xray-core/releases/download/v26.10.31/Xray-linux-64.zip \
+            -o "$archive"
+          echo "e4bd9119f50ae7c41658b1abd0679ae06f98bd864a2907ff33f2f2cf7081b214  $archive" \
+            | sha256sum --check
+          mkdir -p "$RUNNER_TEMP/xray"
+          unzip -q "$archive" xray -d "$RUNNER_TEMP/xray"
 
       - name: Install legacy Xray XHTTP support
         run: |
@@ -51,7 +60,7 @@ jobs:
         run: |
           python3 scripts/check_alive.py \
             "$(go env GOPATH)/bin/sing-box" \
-            "$(go env GOPATH)/bin/xray" \
+            "$RUNNER_TEMP/xray/xray" \
             "$RUNNER_TEMP/xray-legacy/xray" \
             WHITE_LIST_PROXY_COLLECTION.txt \
             ALIVE.txt
