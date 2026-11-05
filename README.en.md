@@ -2,7 +2,7 @@
 
 Russian version: [README.md](README.md)
 
-This repository collects keys from free servers, with a focus on bypassing mobile network restrictions.
+This repository collects keys from open sources, with a focus on bypassing mobile network restrictions.
 
 ## Features
 
@@ -16,11 +16,11 @@ This repository collects keys from free servers, with a focus on bypassing mobil
 
 Copy any link below and paste it as a subscription in your device client:
 
+- [Alive proxies](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping of the Combined Proxy List, rebuilt hourly.
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
-- [Alive proxies](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — rebuilt hourly after a successful HTTPS request through each proxy
-- [Full proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) — includes mobile network restriction bypasses
+- [Combined Proxy List](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) — includes mobile network restriction bypasses
 
 ### Local usage
 
@@ -55,8 +55,8 @@ After each GitHub Actions run or `./run-local.sh` execution, a file named `<date
 ### TODO
 
 - Better deduplication by credentials (`login@server`)
-- Resolve live proxies' exit IP and geolocation
 - A proxy list for Gemini API and web
+- ipv6 list
 
 ## Contribution
 

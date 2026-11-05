@@ -2,7 +2,7 @@
 
 English version: [README.en.md](README.en.md)
 
-Этот репозиторий собирает ключи с бесплатных серверов с упором на обход БС.
+Этот репозиторий собирает ключи из открытых источников с упором на обход БС.
 
 ## Фичи
 
@@ -16,11 +16,11 @@ English version: [README.en.md](README.en.md)
 
 Скопируйте любую ссылку ниже и вставьте её как подписку в клиент вашего устройства:
 
+- [Живые прокси](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping общего списка, список обновляется каждый час.
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
-- [Живые прокси](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — список обновляется каждый час после успешного HTTPS-запроса через каждый прокси
-- [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) - Тут есть обходы БС
+- [Общий список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) - Тут есть обходы БС
 
 ### Локальное использование
 
@@ -55,8 +55,8 @@ English version: [README.en.md](README.en.md)
 ### TODO
 
 - Better dedublication by creds (login@server)
-- Получать IP-адрес и геолокацию живых прокси
 - Список прокси для Gemini Api|Web
+- ipv6 list
 
 ## Участие
 
