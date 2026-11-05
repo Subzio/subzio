@@ -1,0 +1,84 @@
+name: Check Proxy Health
+
+on:
+  schedule:
+    - cron: '37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proxy-list-update
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.27.x'
+
+      - name: Install sing-box
+        run: go install github.com/sagernet/sing-box/cmd/sing-box@v1.14.4
+
+      - name: Install Xray-core
+        run: go install github.com/xtls/xray-core/main@v26.10.31
+
+      - name: Install legacy Xray XHTTP support
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/xray-1.8.24.zip"
+          curl -fsSL \
+            https://github.com/XTLS/Xray-core/releases/download/v1.8.24/Xray-linux-64.zip \
+            -o "$archive"
+          echo "47a860787e823474a358d6bca536547df6dd08b69c6de482ea92a9e7e8f8969c  $archive" \
+            | sha256sum --check
+          mkdir -p "$RUNNER_TEMP/xray-legacy"
+          unzip -q "$archive" xray -d "$RUNNER_TEMP/xray-legacy"
+
+      - name: Test proxy checker
+        run: python3 -B -m unittest discover -s tests -p 'test_check_alive.py'
+
+      - name: Rebuild ALIVE.txt
+        run: |
+          python3 scripts/check_alive.py \
+            "$(go env GOPATH)/bin/sing-box" \
+            "$(go env GOPATH)/bin/xray" \
+            "$RUNNER_TEMP/xray-legacy/xray" \
+            WHITE_LIST_PROXY_COLLECTION.txt \
+            ALIVE.txt
+
+      - name: Commit and push changes
+        run: |
+          set -euo pipefail
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ALIVE.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update alive proxy list"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt"
+              exit 0
+            fi
+
+            echo "Push failed on attempt $attempt; rebasing onto latest main..."
+            git fetch origin main
+            git rebase origin/main
+            sleep 1
+          done
+
+          echo "Unable to push ALIVE.txt after 3 attempts" >&2
+          exit 1

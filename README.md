@@ -19,15 +19,18 @@ English version: [README.en.md](README.en.md)
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
+- [Живые прокси](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — список обновляется каждый час после успешного HTTPS-запроса через каждый прокси
 - [Полный список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) - Тут есть обходы БС
 
 ### Локальное использование
 
-Запустите симуляцию workflow локально:
+Запустите проверку доступности прокси:
 
 ```bash
-./run-local.sh
+./check-alive-local.sh
 ```
+
+Скрипт использует установленные бинарные файлы нужных версий или загружает закреплённые версии для Linux x86_64 в игнорируемую Git папку `.bin/`. Он запускает тесты и обновляет `ALIVE.txt`, но не выполняет commit или push. Для обновления исходного списка отдельно запустите `./run-local.sh`.
 
 ## Для разработчиков
 
@@ -42,6 +45,7 @@ English version: [README.en.md](README.en.md)
 - `HYSTERIA2.txt` — текущие записи вида `hysteria2://` из *общего списка*
 - `TROJAN.txt` — текущие записи вида `trojan://`
 - `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`
+- `ALIVE.txt` — записи, через которые GitHub Actions runner успешно выполнил HTTPS-запрос; список обновляется каждый час
 
 ### Служебные файлы репозитория
 
@@ -51,7 +55,7 @@ English version: [README.en.md](README.en.md)
 ### TODO
 
 - Better dedublication by creds (login@server)
-- Живые прокси как отдельный список: Resolve Outer IP + Geo
+- Получать IP-адрес и геолокацию живых прокси
 - Список прокси для Gemini Api|Web
 
 ## Участие

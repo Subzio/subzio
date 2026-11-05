@@ -19,6 +19,7 @@ Copy any link below and paste it as a subscription in your device client:
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
+- [Alive proxies](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — rebuilt hourly after a successful HTTPS request through each proxy
 - [Full proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) — includes mobile network restriction bypasses
 
 ### Local usage
@@ -26,8 +27,10 @@ Copy any link below and paste it as a subscription in your device client:
 Run the local workflow simulation:
 
 ```bash
-./run-local.sh
+./check-alive-local.sh
 ```
+
+The script uses matching installed binaries when available, otherwise downloads pinned Linux x86_64 binaries into the ignored `.bin/` directory. It runs the checker tests and rebuilds `ALIVE.txt`, but does not commit or push changes. Run `./run-local.sh` separately to refresh the source collection.
 
 ## For developers
 
@@ -42,6 +45,7 @@ After each GitHub Actions run or `./run-local.sh` execution, a file named `<date
 - `HYSTERIA2.txt` — current `hysteria2://` entries from *the combined list*
 - `TROJAN.txt` — current `trojan://` entries
 - `XHTTP.txt` — current links with the `type=xhttp` parameter
+- `ALIVE.txt` — entries that successfully make an HTTPS request from a GitHub Actions runner; rebuilt hourly
 
 ### Repository utility files
 
@@ -51,7 +55,7 @@ After each GitHub Actions run or `./run-local.sh` execution, a file named `<date
 ### TODO
 
 - Better deduplication by credentials (`login@server`)
-- A separate list of live proxies: resolve outer IP and geolocation
+- Resolve live proxies' exit IP and geolocation
 - A proxy list for Gemini API and web
 
 ## Contribution
