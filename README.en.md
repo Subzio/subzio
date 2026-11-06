@@ -6,7 +6,8 @@ This repository collects keys from open sources, with a focus on bypassing mobil
 
 ## Features
 
-- All lists are assembled from keys collected during the last 72 hours, newest first. Duplicates are removed.
+- All lists are assembled from keys collected during the last 72 hours, newest first. Duplicate configurations are removed while distinct transport and TLS settings are kept.
+- Deduplication compares the protocol, credentials, server, port, path, and connection options. Query parameter order and the display-name fragment are ignored.
 - Russian servers are excluded from the lists to ensure access to AI services.
 - Filters exclude some keys with parameters that are not supported by the sing-box core.
 
@@ -54,7 +55,6 @@ After each GitHub Actions run or `./run-local.sh` execution, a file named `<date
 
 ### TODO
 
-- Better deduplication by credentials (`login@server`)
 - A proxy list for Gemini API and web
 - ipv6 list
 

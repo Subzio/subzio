@@ -76,8 +76,8 @@ for ((snapshot_index=${#snapshot_files[@]} - 1; snapshot_index >= 0; snapshot_in
   fi
 done
 
-# Newest snapshots come first, so exact duplicates retain the newest occurrence.
-awk '!seen[$0]++' "$combined" > WHITE_LIST_PROXY_COLLECTION.txt
+# Newest snapshots come first, so duplicate configurations retain the newest occurrence.
+python3 scripts/dedupe_proxy_list.py < "$combined" > WHITE_LIST_PROXY_COLLECTION.txt
 
 tmp=$(mktemp)
 new=$(mktemp)
