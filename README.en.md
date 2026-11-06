@@ -16,7 +16,7 @@ This repository collects keys from open sources, with a focus on bypassing mobil
 
 Copy any link below and paste it as a subscription in your device client:
 
-- [Alive proxies](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping of the Combined Proxy List, rebuilt hourly.
+- [Alive proxies](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping of the Combined Proxy List
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
@@ -45,7 +45,7 @@ After each GitHub Actions run or `./run-local.sh` execution, a file named `<date
 - `HYSTERIA2.txt` — current `hysteria2://` entries from *the combined list*
 - `TROJAN.txt` — current `trojan://` entries
 - `XHTTP.txt` — current links with the `type=xhttp` parameter
-- `ALIVE.txt` — entries that successfully make an HTTPS request from a GitHub Actions runner; rebuilt hourly
+- `ALIVE.txt` — entries that successfully make an HTTPS request from a GitHub Actions runner
 
 ### Repository utility files
 

@@ -16,7 +16,7 @@ English version: [README.en.md](README.en.md)
 
 Скопируйте любую ссылку ниже и вставьте её как подписку в клиент вашего устройства:
 
-- [Живые прокси](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping общего списка, список обновляется каждый час.
+- [Живые прокси](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping общего списка.
 - [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
 - [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
@@ -45,7 +45,7 @@ English version: [README.en.md](README.en.md)
 - `HYSTERIA2.txt` — текущие записи вида `hysteria2://` из *общего списка*
 - `TROJAN.txt` — текущие записи вида `trojan://`
 - `XHTTP.txt` — текущий список ссылок с параметром `type=xhttp`
-- `ALIVE.txt` — записи, через которые GitHub Actions runner успешно выполнил HTTPS-запрос; список обновляется каждый час
+- `ALIVE.txt` — записи, через которые GitHub Actions runner успешно выполнил HTTPS-запрос
 
 ### Служебные файлы репозитория
 
