@@ -1,27 +1,36 @@
-# 2026-11-08 01:25:14 (116 current keys)
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@9.247.54.188:443?sni=nl1.obxodvpn.us#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%209.247.54.188%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202a12%3A3200%3A1002%3A6%3A%3A1%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
-hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+# 2026-11-08 08:57:05 (112 current keys)
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.60.117:20443?sni=hy60c117.w-mebel.pro#🇸🇪 Швеция 2 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.60.117:20447?sni=hy60c117-3.w-mebel.pro#🇸🇪 Швеция 4 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.145:20443?sni=hy62c5d8.w-mebel.pro#🇳🇱 Нидерланды 22 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.145:20443?sni=auto.w-mebel.pro#🇳🇱 Нидерланды 19 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.153:20443?sni=hy62c5d8.w-mebel.pro#🇳🇱 Нидерланды 21 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://ba3aeb91-2ed0-45d3-8dcf-81e5ed45168b@89.105.218.106:8443?sni=speedtestmark.com#🇳🇱 Нидерланды 31 NovoServe B.V.%20t.me%2Frjsxrd
-hysteria2://854e81e5-e3a9-42d3-b4e2-2bfef8558e8d@89.105.218.106:8443?sni=speedtestmark.com#🇳🇱 Нидерланды 32 NovoServe B.V.%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.60.117:20446?sni=hy60c117-4.w-mebel.pro#🇸🇪 Швеция 3 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.145:20443?sni=auto.w-mebel.pro#🇳🇱 Нидерланды 20 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.98.84:20444?sni=hy6b373d-2.w-mebel.pro#🇩🇪 Германия 14 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.98.84:20445?sni=hy6b373d-3.w-mebel.pro#🇩🇪 Германия 13 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.98.84:20446?sni=hy6b373d-4.w-mebel.pro#🇩🇪 Германия 12 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.98.84:20443?sni=hy6b373d.w-mebel.pro#🇩🇪 Германия 11 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@9.247.54.188:443?sni=nl1.obxodvpn.us#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%209.247.54.188%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20446?sni=hy51290d-4.w-mebel.pro#🇺🇸 США 2 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20443?sni=hy51290d.w-mebel.pro#🇺🇸 США 3 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20445?sni=hy51290d-3.w-mebel.pro#🇺🇸 США 1 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20444?sni=hy51290d-2.w-mebel.pro#🇺🇸 США 4 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://854e81e5-e3a9-42d3-b4e2-2bfef8558e8d@89.105.218.106:8443?sni=speedtestmark.com#🇳🇱 Нидерланды 27 NovoServe B.V.%20t.me%2Frjsxrd
+hysteria2://ba3aeb91-2ed0-45d3-8dcf-81e5ed45168b@89.105.218.106:8443?sni=speedtestmark.com#🇳🇱 Нидерланды 28 NovoServe B.V.%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.62:20443?sni=hy530899-3.w-mebel.pro#🇸🇬 Сингапур 2 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899-4.w-mebel.pro#🇸🇬 Сингапур 3 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899.w-mebel.pro#🇸🇬 Сингапур 1 UAB Cherry Servers%20t.me%2Frjsxrd
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23252%20t.me%2Frjsxrd
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202a12%3A3200%3A1002%3A6%3A%3A1%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 hysteria2://nkgl2o6us3ziafuz@46.8.112.169:443?sni=node-1.wt419.site#🇳🇱 Нидерланды 37 Mastersoft S.R.L.%20t.me%2Frjsxrd
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#🇳🇱 Нидерланды 38 Paul Sagov%20t.me%2Frjsxrd
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?sni=mshvpn.online#🇪🇪 Эстония Aktsiaselts WaveCom%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20444?sni=hy51290d-2.w-mebel.pro#🇺🇸 США 8 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20446?sni=hy51290d-4.w-mebel.pro#🇺🇸 США 9 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20443?sni=hy51290d.w-mebel.pro#🇺🇸 США 7 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20445?sni=hy51290d-3.w-mebel.pro#🇺🇸 США 10 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.62:20443?sni=hy530899-3.w-mebel.pro#🇸🇬 Сингапур 2 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899-4.w-mebel.pro#🇸🇬 Сингапур 3 UAB Cherry Servers%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899.w-mebel.pro#🇸🇬 Сингапур 1 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online#🇳🇱 Нидерланды 24 HOSTKEY B.V.%20t.me%2Frjsxrd
-hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.254.13:20443?sni=hy51290d.w-mebel.pro#🇺🇸 США 8 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.57.197:20443?sni=hy51290d.w-mebel.pro#🇺🇸 США 9 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.163:20443?sni=hy62c5d8.w-mebel.pro#🇳🇱 Нидерланды 6 UAB Cherry Servers%20t.me%2Frjsxrd
@@ -29,7 +38,6 @@ hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.144:20443?sni=hy62c5d
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.158:20443?sni=hy62c5d8.w-mebel.pro#🇳🇱 Нидерланды 3 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20144.31.109.38%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.98.84:20443?sni=hy6b373d.w-mebel.pro#🇩🇪 Германия 15 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us#🇩🇪 Германия 10 PLAY2GO - FZCO%20t.me%2Frjsxrd
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us&fp=firefox&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
 hysteria2://zWqQKhzHQOeuIcQleiAC2Ld8j0eZSjZXEAgTKwGaP9c@84.252.100.138:2443?sni=de.vip-get.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
@@ -103,16 +111,4 @@ hysteria2://f860f2da-5035-11ed-bb74-f23c9164ca5d@64.32.13.230:443?sni=36cbcc3d-t
 hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@64.32.13.230:443?sni=7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhuawei.com#🇺🇸 США 47 Sharktech%20t.me%2Frjsxrd
 hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@64.32.13.230:443?sni=d84e799d-tm96o0-0-1rnrp.los.hyhuawei.com#🇺🇸 США 8 Sharktech%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net&alpn=h3#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
-hysteria2://41d4f8b3-2a45-4531-a33b-938e2eebb939@oh.sbbz.tech:443?sni=oh.sbbz.tech&obfs=salamander&obfs-password=sbxbz19890604#%E7%BE%8E%E5%9B%BD_110512197%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444?sni=pl3.nexfile.net#🇵🇱 Польша 1 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:20000?sni=g.play2go.gay&obfs=salamander&obfs-password=-bgbhGhG9yC-MCAQ6pJCHuycKqC7y9V5gXw_mKv8qpE#🇨🇭 Швейцария 3 ROUTE 95 LLC%20t.me%2Frjsxrd
-hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#🇩🇪 Германия 51 Collin Schneeweiss trading as Unesty Company%20t.me%2Frjsxrd
-hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@64.32.13.230:443?sni=429a8a17-tly2o0-0-1rfon.los.hyhuawei.com#🇺🇸 США 13 Sharktech%20t.me%2Frjsxrd
-hysteria2://a18ef18e-293a-11ef-b76e-f23c91cfbbc9@64.32.13.230:443?sni=2bc9e946-tmm5c0-u1dafb-1ro8s.los.hyhuawei.com#🇺🇸 США 40 Sharktech%20t.me%2Frjsxrd
-hysteria2://91df5a86-fcdd-11ef-94aa-f23c913c8d2b@64.32.13.230:443?sni=49fe8226-tmm5c0-tuklme-ueq.los.hyhuawei.com#🇺🇸 США 6 Sharktech%20t.me%2Frjsxrd
-hysteria2://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@64.32.13.230:443?sni=ed4ccc41-tmm5c0-tpsg94-1jbj0.los.hyhuawei.com#🇺🇸 США 52 Sharktech%20t.me%2Frjsxrd
-hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@64.32.13.230:443?sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#🇺🇸 США 19 Sharktech%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?sni=pl1.nexfile.net#🇵🇱 Польша 8 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 4 UCLOUD INFORMATION TECHNOLOGY HK LIMITED%20t.me%2Frjsxrd
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
 
