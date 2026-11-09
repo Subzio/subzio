@@ -1,11 +1,12 @@
-# 2026-11-09 09:45:02 (55 current keys)
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#🇺🇸 США 32 Paul Sagov%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.102:4444?sni=pl1.nexfile.net#🇵🇱 Польша 16 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+# 2026-11-09 20:41:41 (47 current keys)
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.102:4444?sni=pl1.nexfile.net#🇵🇱 Польша 13 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 2 ZYC Network LLC%20t.me%2Frjsxrd
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#🇺🇸 США 10 Paul Sagov%20t.me%2Frjsxrd
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls&sni=hy2-new.aspidnet.xyz#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
 hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@167.104.223.174:8443?sni=wiki.locallynet.org#🇬🇧 Великобритания 8 WEYRO LTD%20t.me%2Frjsxrd
 hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@185.121.179.146:5443?sni=hsale.locallynet.org#🇩🇪 Германия 45 WEYRO LTD%20t.me%2Frjsxrd
 hysteria2://cJytMmPWpB4JAC-VlzE8rCMhcLznQiLb@31.56.189.198:27017?sni=static.cdnnow.xyz#🇩🇪 Германия 46 ExpressHost Ltd%20t.me%2Frjsxrd
-hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 6 ZYC Network LLC%20t.me%2Frjsxrd
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?sni=mshvpn.online&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%5B%2ACIDR%5D
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
@@ -33,7 +34,6 @@ hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899-
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899.w-mebel.pro#🇸🇬 Сингапур 1 UAB Cherry Servers%20t.me%2Frjsxrd
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23252%20t.me%2Frjsxrd
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202a12%3A3200%3A1002%3A6%3A%3A1%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 hysteria2://nkgl2o6us3ziafuz@46.8.112.169:443?sni=node-1.wt419.site#🇳🇱 Нидерланды 37 Mastersoft S.R.L.%20t.me%2Frjsxrd
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?sni=mshvpn.online#🇪🇪 Эстония Aktsiaselts WaveCom%20t.me%2Frjsxrd
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online#🇳🇱 Нидерланды 24 HOSTKEY B.V.%20t.me%2Frjsxrd
@@ -46,12 +46,4 @@ hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxod
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.19:4444?sni=fl3.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20144.31.109.38%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us#🇩🇪 Германия 10 PLAY2GO - FZCO%20t.me%2Frjsxrd
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us&fp=firefox&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
-hysteria2://zWqQKhzHQOeuIcQleiAC2Ld8j0eZSjZXEAgTKwGaP9c@84.252.100.138:2443?sni=de.vip-get.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goonars.com#%E7%AB%8B%E9%99%B6%E5%AE%9B_110620061%20t.me%2Frjsxrd
-hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3ACTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?sni=gb2.lumacache.com&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3A1AFR2jdtV3O5h9P33KpcvgfkSiFIqiXSuFxXwBcY3FY@212.41.8.76:36116?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3Ab3p2nL5JrfHoKJi4q7v_yIfCipsgduAtb9m1cdt0B-A@212.41.8.76:36114?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://1794082870:063fff3c-d6dd-43e3-b2fb-124785f13029:CTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?sni=gb2.lumacache.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-hysteria2://1794082870:063fff3c-d6dd-43e3-b2fb-124785f13029:1AFR2jdtV3O5h9P33KpcvgfkSiFIqiXSuFxXwBcY3FY@212.41.8.76:36116?sni=us2.lumacache.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
