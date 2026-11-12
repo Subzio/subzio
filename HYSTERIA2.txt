@@ -1,15 +1,21 @@
-# 2026-11-11 17:52:20 (27 current keys)
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru#🇳🇱 Нидерланды 48 SERVERS TECH FZCO%20t.me%2Frjsxrd
+# 2026-11-12 00:38:36 (33 current keys)
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://bc60e93b-1c62-45fc-9c1d-c26285b29e7e@217.60.33.146:1443?sni=infra-core.cvedcdigital.vip#🇵🇱 Польша 8 ExpressHost Ltd%20t.me%2Frjsxrd
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?sni=guide.blog-forme.ru#🇩🇪 Германия 6 WAIcore Ltd%20t.me%2Frjsxrd
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru#🇳🇱 Нидерланды 46 SERVERS TECH FZCO%20t.me%2Frjsxrd
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?sni=guide.blog-forme.ru#🇩🇪 Германия 9 WAIcore Ltd%20t.me%2Frjsxrd
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru#🇳🇱 Нидерланды 47 SERVERS TECH FZCO%20t.me%2Frjsxrd
-hysteria2://4b13c29ebe735e47@213.21.232.4:443?sni=mytubeproxy10.duckdns.org#🇵🇱 Польша 5 OC NETWORKS LIMITED%20t.me%2Frjsxrd
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru#🇫🇮 Финляндия 4 WAIcore Ltd%20t.me%2Frjsxrd
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#🇳🇱 Нидерланды 56 Paul Sagov%20t.me%2Frjsxrd
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23252%20t.me%2Frjsxrd
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.66.212:443?sni=de1.obxodvpn.us#🇩🇪 Германия 20 PLAY2GO - FZCO%20t.me%2Frjsxrd
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru#🇫🇮 Финляндия 10 WAIcore Ltd%20t.me%2Frjsxrd
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#🇳🇱 Нидерланды 59 Paul Sagov%20t.me%2Frjsxrd
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru#🇳🇱 Нидерланды 49 SERVERS TECH FZCO%20t.me%2Frjsxrd
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23122%20t.me%2Frjsxrd
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?sni=guide.blog-forme.ru&fp=firefox&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://4b13c29ebe735e47@213.21.232.4:443?sni=mytubeproxy10.duckdns.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://4b13c29ebe735e47@213.21.232.4:443?sni=mytubeproxy10.duckdns.org&fp=firefox&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://4b13c29ebe735e47@mytubeproxy10.duckdns.org:443?alpn=h3&fp=firefox&security=tls&sni=mytubeproxy10.duckdns.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://4b13c29ebe735e47@mytubeproxy10.duckdns.org:443?sni=mytubeproxy10.duckdns.org&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?sni=guide.blog-forme.ru&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://4b13c29ebe735e47@213.21.232.4:443?sni=mytubeproxy10.duckdns.org&fp=firefox&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls&sni=hy2-new.aspidnet.xyz#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://c8c54160-129b-43d1-8700-91c31f0984c7@31.76.5.243:443?sni=kk-de4942.testkknegr.online#🇳🇴 Норвегия SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://1794466637:db57c865-2318-4fd2-8aea-e8ba58ec696d:Sjcl0gc4tJZu1HqNgL502Y4uLCJSzLg9X3R0zYjQ6MQ@31.76.91.168:8443?sni=jp.lumacache.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
