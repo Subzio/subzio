@@ -1,6 +1,6 @@
-# 2026-11-13 09:28:43 (34 current keys)
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?sni=fl5.edgeport.cloud#🇫🇮 Финляндия 8 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+# 2026-11-13 17:42:23 (30 current keys)
 hysteria2://1794613669%3Aead4a562-edf2-40cf-ad33-13ae98546226%3Ay0IFOWW-SkUMKFHghSawQeQ_c_EzBBvnnsQrHjD6llY@212.41.9.190:36118?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?sni=fl5.edgeport.cloud#🇫🇮 Финляндия 8 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:5443?sni=germany.cloudhouse1.ru#🇩🇪 Германия 6 H2NEXUS CLOUD SERVICES - FZCO%20t.me%2Frjsxrd
 hysteria2://1794613669%3Aead4a562-edf2-40cf-ad33-13ae98546226%3Aw6rqI78K6gfxJcFQhWRiJ1E9algZc0n57ZAqMSmYlwA@212.41.9.190:36109?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:10444?sni=germany.cloudhouse1.ru#🇬🇧 Великобритания 5 WEYRO LTD%20t.me%2Frjsxrd
@@ -29,8 +29,4 @@ hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?sni=guide.blog-
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls&sni=hy2-new.aspidnet.xyz#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://c8c54160-129b-43d1-8700-91c31f0984c7@31.76.5.243:443?sni=kk-de4942.testkknegr.online#🇳🇴 Норвегия SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://1794466637:db57c865-2318-4fd2-8aea-e8ba58ec696d:Sjcl0gc4tJZu1HqNgL502Y4uLCJSzLg9X3R0zYjQ6MQ@31.76.91.168:8443?sni=jp.lumacache.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
-hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@vieee.observation.today:443?sni=vie.observation.today&security=tls#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@vieee.observation.today:443?security=tls&sni=vie.observation.today&alpn=h3&insecure=0#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
-hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@46.8.97.88:443?sni=vie.observation.today#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@46.8.97.88:443?sni=vie.observation.today&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 
