@@ -1,7 +1,12 @@
-# 2026-11-13 01:03:05 (30 current keys)
+# 2026-11-13 09:28:43 (34 current keys)
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?sni=fl5.edgeport.cloud#🇫🇮 Финляндия 8 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
+hysteria2://1794613669%3Aead4a562-edf2-40cf-ad33-13ae98546226%3Ay0IFOWW-SkUMKFHghSawQeQ_c_EzBBvnnsQrHjD6llY@212.41.9.190:36118?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:5443?sni=germany.cloudhouse1.ru#🇩🇪 Германия 6 H2NEXUS CLOUD SERVICES - FZCO%20t.me%2Frjsxrd
+hysteria2://1794613669%3Aead4a562-edf2-40cf-ad33-13ae98546226%3Aw6rqI78K6gfxJcFQhWRiJ1E9algZc0n57ZAqMSmYlwA@212.41.9.190:36109?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:10444?sni=germany.cloudhouse1.ru#🇬🇧 Великобритания 5 WEYRO LTD%20t.me%2Frjsxrd
+hysteria2://1794613669:ead4a562-edf2-40cf-ad33-13ae98546226:w6rqI78K6gfxJcFQhWRiJ1E9algZc0n57ZAqMSmYlwA@212.41.9.190:36109?sni=hu.lumacache.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://1794613669:ead4a562-edf2-40cf-ad33-13ae98546226:y0IFOWW-SkUMKFHghSawQeQ_c_EzBBvnnsQrHjD6llY@212.41.9.190:36118?sni=us2.lumacache.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs-password=c1b4086fea89914496c7e10967a419216566&nonce=fLqAwvwP&obfs=salamander&freeinternet=kizyak_vpn1782335286121&seq=you_are_beautiful7216&security=tls&descriptions=СвободуИнтернету713&seq=you_are_beautiful4603&sni=hy2-new.aspidnet.xyz&_t=6462b95f&descriptions=люби_себя014a40&__rand=335ffdee#[438ms RO RO  @vlesstrojan]%20t.me%2Frjsxrd
-hysteria2://1794613669%3Aead4a562-edf2-40cf-ad33-13ae98546226%3Aw6rqI78K6gfxJcFQhWRiJ1E9algZc0n57ZAqMSmYlwA@212.41.9.190:36109?sni=hu.lumacache.com&alpn=h3#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-hysteria2://1794613669%3Aead4a562-edf2-40cf-ad33-13ae98546226%3Ay0IFOWW-SkUMKFHghSawQeQ_c_EzBBvnnsQrHjD6llY@212.41.9.190:36118?sni=us2.lumacache.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&security=tls&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.102:4444?sni=pl1.nexfile.net#🇵🇱 Польша 5 SERV.HOST GROUP LTD%20t.me%2Frjsxrd
 hysteria2://2be4ee40-0d2a-43cb-a267-8769df96da2a@45.88.12.158:443?sni=va.stream-room.com#🇩🇪 Германия 10 UXHOST LTD%20t.me%2Frjsxrd
@@ -28,5 +33,4 @@ hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@vieee.observation.today:443?sni
 hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@vieee.observation.today:443?security=tls&sni=vie.observation.today&alpn=h3&insecure=0#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@46.8.97.88:443?sni=vie.observation.today#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@46.8.97.88:443?sni=vie.observation.today&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 16 ZYC Network LLC%20t.me%2Frjsxrd
 
