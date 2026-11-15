@@ -1,8 +1,9 @@
-# 2026-11-15 01:52:13 (39 current keys)
-hysteria2://833539ec-fbba-40e8-ba6c-ac31bf6b3b4c@144.31.168.201:443?sni=fastconv-mirror.ru#🇩🇪 Германия 26 OC NETWORKS LIMITED%20t.me%2Frjsxrd
-hysteria2://HATATEAYA@77.90.15.183:8964?sni=ganlanc.at&obfs=salamander&obfs-password=HATATEAYA#🇩🇪 Германия 22 Tom Gewiese%20t.me%2Frjsxrd
+# 2026-11-15 09:19:31 (40 current keys)
+hysteria2://HATATEAYA@77.90.15.183:8964?sni=ganlanc.at&obfs=salamander&obfs-password=HATATEAYA#🇩🇪 Германия 8 Tom Gewiese%20t.me%2Frjsxrd
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20t.me%2Frjsxrd
+hysteria2://SW_COSMOS:sYcUMf7G9g67Zuho@167.17.179.175:443?sni=spacearea.onthewifi.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
+hysteria2://833539ec-fbba-40e8-ba6c-ac31bf6b3b4c@144.31.168.201:443?sni=fastconv-mirror.ru#🇩🇪 Германия 26 OC NETWORKS LIMITED%20t.me%2Frjsxrd
 hysteria2://1e697474-7836-47ed-aaca-b559efcbb298@94.183.197.67:8444?sni=eu79.cdn77.icu#🇩🇪 Германия 15 GSL Networks Pty LTD%20t.me%2Frjsxrd
 hysteria2://lCk4_xMXmmLQV45zGLuQ5BRmzKEHDU8Q@81.90.17.166:443?sni=assets.stackbase-dev.com#🇵🇱 Польша 9 NODE HOST LIMITED%20t.me%2Frjsxrd
 hysteria2://1e697474-7836-47ed-aaca-b559efcbb298@94.183.196.4:8444?sni=eu69.cdn77.icu#🇳🇱 Нидерланды 11 GSL Networks Pty LTD%20t.me%2Frjsxrd
