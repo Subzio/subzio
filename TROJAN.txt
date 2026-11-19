@@ -1,4 +1,5 @@
-# 2026-11-19 10:16:50 (24 current keys)
+# 2026-11-19 20:31:13 (24 current keys)
+trojan://4mq9w5ckqw3ewbdg@staticxfastline.taymaztest.ir:16200?path=%2Fbiyasd&security=tls&alpn=http%2F1.1&host=staticxfastline.taymaztest.ir&fp=chrome&type=ws&sni=staticxfastline.taymaztest.ir#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2C%20Luxembourg%20%7C%20%5BBL%5D
 trojan://XnjwEJbEbqBt8bjlrKZPwg@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&type=ws&host=cf.lunex-vpn.xyz&path=/Lunex&fp=chrome&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7_%E5%B7%B4%E8%A5%BF%20t.me%2Frjsxrd
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.173.68:443?type=ws&security=tls&path=%2Fazadnet-5vk.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&sni=azadnet-5vk.pages.dev&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
@@ -22,5 +23,4 @@ trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.b
 trojan://e7TTceggMwUMg%2BaFN:F4@172.66.47.18:443?security=tls&sni=APkD964o1oghlTghHt0L0Of.pAgeS.Dev&type=ws&path=/tr/SIeRkg2QvR2Zcpu0SeEMow?ed=2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 trojan://bpb-trojan@singapore.com:443?security=tls&sni=kargar001.pages.dev&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=kargar001.pages.dev&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 trojan://vP%21XvZBNdw.e%2AddSgmH%21@188.114.96.0:2096?path=/tr/lqCTAonDgcErIZylZuNyy?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=n0q4xprj2d4x4prcq29l8jkczd0.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0_%E9%A6%99%E6%B8%AF%20%283%29%20t.me%2Frjsxrd
 
