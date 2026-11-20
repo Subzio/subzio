@@ -1,4 +1,8 @@
-# 2026-11-20 03:09:33 (21 current keys)
+# 2026-11-20 12:50:47 (25 current keys)
+trojan://123456@us.ctt25.uk:443?security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2034.94.152.229%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+trojan://123456@us.ctt25.uk:443?type=tcp&security=tls&fp=chrome&sni=us.ctt25.uk#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2034.94.152.229%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com#[135ms US US  @vlesstrojan] [unverified]%20t.me%2Frjsxrd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&sni=api.unlockyourfuturefindyourperfectcareer.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20%2815%29%20t.me%2Frjsxrd
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20%2827%29%20t.me%2Frjsxrd
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?sni=hk.catxstar.com&security=tls&insecure=0#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_IPV4%20t.me%2Frjsxrd
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20t.me%2Frjsxrd
