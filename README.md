@@ -17,25 +17,18 @@ English version: [README.en.md](README.en.md)
 
 Скопируйте любую ссылку ниже и вставьте её как подписку в клиент вашего устройства:
 
-- [Живые прокси](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping общего списка.
-- [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
-- [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
-- [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
-- [Общий список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) - Тут есть обходы БС
+- [🔗 Общий список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) / Тут есть обходы БС
+- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) / Быстрее Reality, но требуется UDP
+- [🔗 Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
+- [🔗 Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) / ☠️ В LTE не работает
 
 ### Локальное использование
 
-Запустите проверку доступности прокси:
-
 ```bash
-./check-alive-local.sh
+bash ./run-local.sh
 ```
 
-Скрипт использует установленные бинарные файлы нужных версий или загружает закреплённые версии для Linux x86_64 в игнорируемую Git папку `.bin/`. Он запускает тесты и обновляет `ALIVE.txt`, но не выполняет commit или push. Для обновления исходного списка отдельно запустите `./run-local.sh`.
-
-## Для разработчиков
-
-### Структура репозитория
+## Структура репозитория
 
 **Общий список** — `WHITE_LIST_PROXY_COLLECTION.txt`.
 

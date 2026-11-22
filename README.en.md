@@ -2,12 +2,12 @@
 
 Russian version: [README.md](README.md)
 
-This repository collects keys from open sources, with a focus on bypassing mobile network restrictions.
+This repository collects keys from open sources with a focus on bypassing censorship.
 
 ## Features
 
-- All lists are assembled from keys collected during the last 72 hours, newest first. Duplicate configurations are removed while distinct transport and TLS settings are kept.
-- Deduplication compares the protocol, credentials, server, port, path, and connection options. Query parameter order and the display-name fragment are ignored.
+- All lists are assembled from keys collected over the last 72 hours, starting with the newest ones. Duplicate configurations are removed; different transport and TLS parameters are preserved.
+- When removing duplicates, the protocol, credentials, server, port, path, and all connection parameters are taken into account. URL parameter order and the display-name fragment are ignored.
 - Russian servers are excluded from the lists to ensure access to AI services.
 - Filters exclude some keys with parameters that are not supported by the sing-box core.
 
@@ -17,33 +17,26 @@ This repository collects keys from open sources, with a focus on bypassing mobil
 
 Copy any link below and paste it as a subscription in your device client:
 
-- [Alive proxies](https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio) — HTTPS ping of the Combined Proxy List
-- [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio)
-- [Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
-- [XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio)
-- [Combined Proxy List](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#all-protocols@subzio) — includes mobile network restriction bypasses
+- [🔗 Combined proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) — includes censorship bypasses
+- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) — faster than Reality, but requires UDP
+- [🔗 Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
+- [🔗 Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) — ☠️ Does not work on LTE
 
 ### Local usage
 
-Run the local workflow simulation:
-
 ```bash
-./check-alive-local.sh
+bash ./run-local.sh
 ```
 
-The script uses matching installed binaries when available, otherwise downloads pinned Linux x86_64 binaries into the ignored `.bin/` directory. It runs the checker tests and rebuilds `ALIVE.txt`, but does not commit or push changes. Run `./run-local.sh` separately to refresh the source collection.
+## Repository structure
 
-## For developers
+**Combined list** — `WHITE_LIST_PROXY_COLLECTION.txt`.
 
-### Repository structure
-
-`WHITE_LIST_PROXY_COLLECTION.txt` — **the combined list**.
-
-After each GitHub Actions run or `./run-local.sh` execution, a file named `<datetime>-...` is added to `WHITE_LIST_PROXY_COLLECTION/`. Only snapshots from the last 72 hours are included in *the combined list*.
+After each GitHub Actions run or `./run-local.sh` execution, a file named `<datetime>-...` appears in `WHITE_LIST_PROXY_COLLECTION/`. Only snapshots from the last 72 hours are included in the *combined list*.
 
 ### Protocol-based lists
 
-- `HYSTERIA2.txt` — current `hysteria2://` entries from *the combined list*
+- `HYSTERIA2.txt` — current `hysteria2://` entries from the *combined list*
 - `TROJAN.txt` — current `trojan://` entries
 - `XHTTP.txt` — current links with the `type=xhttp` parameter
 - `ALIVE.txt` — entries that successfully make an HTTPS request from a GitHub Actions runner
@@ -55,8 +48,8 @@ After each GitHub Actions run or `./run-local.sh` execution, a file named `<date
 
 ### TODO
 
-- A proxy list for Gemini API and web
-- ipv6 list
+- Proxy list for Gemini API|Web
+- IPv6 list
 
 ## Contribution
 
