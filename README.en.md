@@ -7,9 +7,10 @@ This repository collects keys from open sources with a focus on bypassing censor
 ## Features
 
 - All lists are assembled from keys collected over the last 72 hours, starting with the newest ones.
+- Russian servers are excluded from the lists to ensure access to AI services.
+- Shadowsocks and SOCKS keys are excluded, as are insecure connections using `security=none`.
 - Duplicate configurations are removed; different transport and TLS parameters are preserved.
 - When removing duplicates, the protocol, credentials, server, port, path, and all connection parameters are taken into account. URL parameter order and the display-name fragment are ignored.
-- Russian servers are excluded from the lists to ensure access to AI services.
 
 ## Usage
 
@@ -18,7 +19,7 @@ This repository collects keys from open sources with a focus on bypassing censor
 Copy any link below and paste it as a subscription in your device client:
 
 - [🔗 Combined proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) — includes censorship bypasses
-- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) — faster than Reality, but requires UDP
+- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) — suitable for gaming
 - [🔗 Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [🔗 Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) — ☠️ Does not work on LTE
 
@@ -39,7 +40,6 @@ After each GitHub Actions run or `./run-local.sh` execution, a file named `<date
 - `HYSTERIA2.txt` — current `hysteria2://` entries from the *combined list*
 - `TROJAN.txt` — current `trojan://` entries
 - `XHTTP.txt` — current links with the `type=xhttp` parameter
-- `ALIVE.txt` — entries that successfully make an HTTPS request from a GitHub Actions runner
 
 ### Repository utility files
 
