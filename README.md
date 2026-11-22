@@ -19,7 +19,7 @@ English version: [README.en.md](README.en.md)
 Скопируйте любую ссылку ниже и добавьте её как новую подписку в клиент вашего устройства:
 
 - [🔗 Общий список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) / Тут есть обходы БС
-- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) / Подходит для игр
+- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) / Подходит для LTE
 - [🔗 Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [🔗 Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) / ☠️ В LTE не работает
 

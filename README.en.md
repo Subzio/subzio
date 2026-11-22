@@ -19,7 +19,7 @@ This repository collects keys from open sources with a focus on bypassing censor
 Copy any link below and add it as a new subscription in your device client:
 
 - [🔗 Combined proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) — includes censorship bypasses
-- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) — suitable for gaming
+- [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) — suitable for LTE
 - [🔗 Trojan](https://raw.githubusercontent.com/Subzio/subzio/main/TROJAN.txt#TROJAN@subzio)
 - [🔗 Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/main/HYSTERIA2.txt#HYSTERIA2@subzio) — ☠️ Does not work on LTE
 
