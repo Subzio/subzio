@@ -1,2 +1,3 @@
 input/
 /.bin/
+__pycache__
