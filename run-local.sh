@@ -35,7 +35,7 @@ for url in "${lines[@]}"; do
   fi
 done
 
-# Filter this run's inputs and preserve duplicates in its snapshot.
+# Filter this run's inputs
 archive_dir="WHITE_LIST_PROXY_COLLECTION"
 mkdir -p "$archive_dir"
 current=$(mktemp)
@@ -47,10 +47,7 @@ for file in input/*.txt; do
   echo "Processing $file..."
   awk '
     /^(ss|socks):\/\// { next }
-    /xtls-rprx-vision-udp443/ { next }
     /Russia|RU|%F0%9F%87%B7%F0%9F%87%BA%20|Россия/ { next }
-    /xmux/ { next }
-    /extra/ { next }
     /type=tcp/ && /sec(urity|ure)=none/ { next }
     /sec(urity|ure)=none/ && !/type=xhttp/ { next }
     { print }

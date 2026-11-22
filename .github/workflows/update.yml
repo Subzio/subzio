@@ -72,16 +72,13 @@ jobs:
         combined=$(mktemp)
         trap 'rm -f "$current" "$combined"' EXIT
 
-        # Filter this run's inputs, preserving duplicates in the snapshot.
+        # Filter this run's inputs
         shopt -s nullglob
         for file in input/*.txt; do
             echo "Processing $file..."
             awk '
             /^(ss|socks):\/\// { next }                                 # remove SS
-            /xtls-rprx-vision-udp443/ { next }                          # Is not supported by sing box clients
             /Russia|RU|%F0%9F%87%B7%F0%9F%87%BA%20|Россия/ { next }                             # Filter our Russian servers by a key name
-            /xmux/ { next }                                            # Is not supported by sing box clients
-            /extra/ { next }
             /type=tcp/ && /sec(urity|ure)=none/ { next }               # Skip type=tcp + security=none (VULNERABLE), order-agnostic
             /sec(urity|ure)=none/ && !/type=xhttp/ { next }            # Skip secure=none without type=xhttp
             { print }                                                  # Output valid lines

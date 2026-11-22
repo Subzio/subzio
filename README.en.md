@@ -6,10 +6,10 @@ This repository collects keys from open sources with a focus on bypassing censor
 
 ## Features
 
-- All lists are assembled from keys collected over the last 72 hours, starting with the newest ones. Duplicate configurations are removed; different transport and TLS parameters are preserved.
+- All lists are assembled from keys collected over the last 72 hours, starting with the newest ones.
+- Duplicate configurations are removed; different transport and TLS parameters are preserved.
 - When removing duplicates, the protocol, credentials, server, port, path, and all connection parameters are taken into account. URL parameter order and the display-name fragment are ignored.
 - Russian servers are excluded from the lists to ensure access to AI services.
-- Filters exclude some keys with parameters that are not supported by the sing-box core.
 
 ## Usage
 
