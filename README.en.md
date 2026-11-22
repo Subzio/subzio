@@ -16,7 +16,7 @@ This repository collects keys from open sources with a focus on bypassing censor
 
 ### Subscription links
 
-Copy any link below and paste it as a subscription in your device client:
+Copy any link below and add it as a new subscription in your device client:
 
 - [🔗 Combined proxy list](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) — includes censorship bypasses
 - [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) — suitable for gaming

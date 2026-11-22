@@ -16,7 +16,7 @@ English version: [README.en.md](README.en.md)
 
 ### Подиски (прямые ссылки на списки)
 
-Скопируйте любую ссылку ниже и вставьте её как подписку в клиент вашего устройства:
+Скопируйте любую ссылку ниже и добавьте её как новую подписку в клиент вашего устройства:
 
 - [🔗 Общий список прокси](https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio) / Тут есть обходы БС
 - [🔗 XHTTP](https://raw.githubusercontent.com/Subzio/subzio/main/XHTTP.txt#XHTTP@subzio) / Подходит для игр
