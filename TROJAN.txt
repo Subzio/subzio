@@ -1,4 +1,6 @@
-# 2026-11-22 02:11:52 (33 current keys)
+# 2026-11-22 09:50:09 (35 current keys)
+trojan://sshs8_6481354771@86.38.247.109:2087?type=raw&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%8C%90%20%D0%92%D1%8B%D1%85%D0%BE%D0%B4%20%D0%BD%D0%B5%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+trojan://auto@104.17.128.1:2096?path=%2Fazadnet-5o5.pages.dev%2F%3Fed%3D2560&security=tls&insecure=0&host=azadnet-5o5.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-5o5.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6_%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2815%29%20t.me%2Frjsxrd
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?security=tls&sni=hk.catxstar.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20%28153%29%20t.me%2Frjsxrd
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20t.me%2Frjsxrd
