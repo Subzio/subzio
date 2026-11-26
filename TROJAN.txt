@@ -1,7 +1,9 @@
-# 2026-11-26 00:18:16 (67 current keys)
+# 2026-11-26 10:50:27 (45 current keys)
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&fp=chrome&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%8C%90%20%D0%92%D1%8B%D1%85%D0%BE%D0%B4%20%D0%BD%D0%B5%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
 trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2034.80.15.95%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&fp=chrome&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http/1.1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Vinnytsia%20%7C%20%5BBL%5D
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?type=ws&security=tls&fp=chrome&host=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Vinnytsia%20%7C%20%5BBL%5D
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?security=tls&sni=nu3rb.supertoolify.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵%20t.me%2Frjsxrd
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20t.me%2Frjsxrd
 trojan://1vkFHbQX_gN1U8V8jVc@104.16.106.252:443?security=tls&sni=mhpanel.kigaping.com&type=ws&host=mhpanel.kigaping.com&path=%2Ftrojan-ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Karlsruhe%20%7C%20%5BBL%5D
@@ -42,28 +44,4 @@ trojan://1vkFHbQX_gN1U8V8jVc@104.25.211.29:443?security=tls&sni=mhpanel.kigaping
 trojan://1vkFHbQX_gN1U8V8jVc@104.25.39.241:443?security=tls&sni=mhpanel.kigaping.com&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Karlsruhe%20%7C%20%5BBL%5D
 trojan://1vkFHbQX_gN1U8V8jVc@172.64.150.28:443?security=tls&sni=mhpanel.kigaping.com&type=ws&host=mhpanel.kigaping.com&path=%2Ftrojan-ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Karlsruhe%20%7C%20%5BBL%5D
 trojan://1vkFHbQX_gN1U8V8jVc@172.66.3.191:443?security=tls&sni=mhpanel.kigaping.com&type=ws&host=mhpanel.kigaping.com&path=%2Ftrojan-ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Karlsruhe%20%7C%20%5BBL%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?security=tls&sni=searchnationwidecareerchangehelperandguidancetoday.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20%2846%29%20t.me%2Frjsxrd
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@a2dgus.supertoolify.com:443?security=tls&sni=a2dgus.supertoolify.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD%20%2838%29%20t.me%2Frjsxrd
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?security=tls&sni=nb1hk.hikigo.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0_%E9%A6%99%E6%B8%AF%20%289%29%20t.me%2Frjsxrd
-trojan://UyJoqPqycR@37.233.80.144:2095?security=tls&sni=37.233.80.144&alpn=h2&fp=firefox&type=tcp#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23251%20t.me%2Frjsxrd
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.157.222:443?security=tls&sni=xvxn1hkzf.mateflora.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%2360%20t.me%2Frjsxrd
-trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:2053?security=tls&sni=5.53.124.50&alpn=h2&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:2087?security=tls&sni=5.53.124.50&alpn=h2&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:2095?security=tls&sni=5.53.124.50&alpn=h2&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:443?security=tls&sni=5.53.124.50&alpn=h2&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:443?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:2095?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:2053?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-trojan://UyJoqPqycR@5.53.124.50:2087?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%5B%2ACIDR%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?security=tls&sni=nb1hk.hikigo.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Kau%20Wa%20Keng%20%7C%20%5BBL%5D
-trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?security=tls&sni=ra-p1.victorycloud.ru&alpn=http%2F1.1&type=ws&host=ra-p1.victorycloud.ru&path=%2F2fc2ec03a65d451dffa4592d68c43a29#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?security=tls&sni=ra-p1.victorycloud.ru&fp=chrome&alpn=http%2F1.1&type=ws&path=%2F2fc2ec03a65d451dffa4592d68c43a29#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://aQRciry3QFc6pQpyb2NhH7l5Mc9SPJRT@176.65.151.85:8443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=0wk-oMUSX2Qk044K1dpEac4X3MX-TrGzUaZi66zkDXI&sid=37829ba2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
-trojan://bpb-trojan@russia.com:443?security=tls&sni=kargar001.pages.dev&fp=chrome&alpn=h3&type=ws&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://bpb-trojan@singapore.com:443?security=tls&sni=kargar001.pages.dev&fp=randomized&alpn=h3&type=ws&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://bpb-trojan@russia.com:443?security=tls&sni=kargar001.pages.dev&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=kargar001.pages.dev&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://bpb-trojan@russia.com:443?security=tls&sni=kargar001.pages.dev&fp=randomized&alpn=h3&type=ws&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://reinz@104.26.6.171:443?security=tls&sni=tsg3.pages.dev&type=ws&path=/?ed=2560&Host=tsg3.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 
