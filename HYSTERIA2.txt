@@ -1,8 +1,10 @@
-# 2026-11-27 04:13:28 (44 current keys)
+# 2026-11-27 16:35:35 (44 current keys)
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&mport=20000-30000#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23649%20t.me%2Frjsxrd
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23285%20t.me%2Frjsxrd
+hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf%3Anp2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@n50.neproxy.net:443?security=tls&alpn=h3&insecure=0&sni=n50.neproxy.net#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Aire-la-Ville%20%7C%20%5BBL%5D
 hysteria2://162be7b9-eb38-4f74-b836-96afc49ae452@194.93.61.148:443?sni=nether.cxhub.su#🇳🇱 Нидерланды 18 FORESTSNET LTD%20t.me%2Frjsxrd
 hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.106:443?sni=de1-balance.rezproffx.ru#🇩🇪 Германия 21 ExpressHost Ltd%20t.me%2Frjsxrd
 hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443?sni=de2-balance.rezproffx.ru#🇩🇪 Германия 20 ExpressHost Ltd%20t.me%2Frjsxrd
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&mport=20000-30000#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23649%20t.me%2Frjsxrd
 hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8453?sni=eu71.cdn77.icu&alpn=h3#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8455?sni=eu36.cdn77.icu&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D
 hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8454?sni=as18.cdn77.icu&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
@@ -11,7 +13,6 @@ hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.106:443?headerType=n
 hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443?headerType=none&encryption=none&sni=de2-balance.rezproffx.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.213:13337?sni=mother-earth.fyi#🇬🇧 Великобритания 1 Evgenii Konstantinov%20t.me%2Frjsxrd
 hysteria2://0c66ef78-33b9-4f88-9529-50db9919fd33@195.209.217.251:30443?sni=dlfd3b.static.tv-av.fun#🇩🇪 Германия 10 FREAKHOSTING LTD%20t.me%2Frjsxrd
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23285%20t.me%2Frjsxrd
 hysteria2://0c66ef78-33b9-4f88-9529-50db9919fd33@195.209.217.251:30443?sni=dlfd3b.static.tv-av.fun&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf%3Anp2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@194.87.224.8:443?sni=n49.neproxy.net&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf%3Anp2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@n48.neproxy.net:443?security=tls&alpn=h3&insecure=0&sni=n48.neproxy.net#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
@@ -42,5 +43,4 @@ hysteria2://111a64ce-3aaf-4154-9ee9-7bcc0e214d7c@193.233.130.66:443?sni=app.vles
 hysteria2://00094b43-04c7-464b-a3d0-72da5fe0e68b@193.233.130.66:443?sni=app.vles.space#🇳🇱 Нидерланды 10 NetCrafters OU%20t.me%2Frjsxrd
 hysteria2://4dea9141-914b-4a25-86b4-c5f98616cb8d@193.233.130.66:443?sni=app.vles.space#🇳🇱 Нидерланды 7 NetCrafters OU%20t.me%2Frjsxrd
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202a05%3Ad016%3Aa7%3Af000%3Ac878%3A5292%3Aaa83%3Af41f%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
-hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@144.31.128.13:443?sni=retryquery.luxe-self.co.uk#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 
