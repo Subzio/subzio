@@ -1,7 +1,12 @@
-# 2026-11-28 01:25:35 (43 current keys)
+# 2026-11-28 10:20:42 (44 current keys)
+hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#%E8%8B%B1%E5%9B%BD_112810012%20t.me%2Frjsxrd
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23956%20t.me%2Frjsxrd
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.163:13337?sni=mother-earth.fyi#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2023%20t.me%2Frjsxrd
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%231641%20t.me%2Frjsxrd
 hy2://f4b08bf1-d9bd-4755-aa88-ba922282c608@timewhite655.thebestqas.am:443/?hop_interval=10&sni=timewhite655.thebestqas.am#LTE/5G Все операторы 🇪🇺%20t.me%2Frjsxrd
+hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#🇭🇰 Гонконг 1 PCCW IMS Limited%20t.me%2Frjsxrd
+hysteria2://2444df7f-4a0c-45bd-9c62-25a7ff8c4dba@193.124.66.172:443?security=tls&alpn=h3&insecure=0&sni=lv.0000000000000.space#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://fb721937-6284-4892-9cbd-c3ba2cb66b4a@45.146.166.64:8441?sni=cdn.mornismp.ru&fp=firefox&alpn=h3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AE%F0%9F%87%B7%20%5B%2ACIDR%5D
 hysteria2://c8aa4ba6a243ddfdeb67515aa849624b@8.220.244.33:7788?sni=www.ddsos.cc#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%233014%20t.me%2Frjsxrd
 hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@203.198.86.142:443?sni=251c04d2-tm96o0-0-1rnrp.nw4.hyhuawei.com#🇭🇰 Гонконг 2 PCCW IMS Limited%20t.me%2Frjsxrd
 hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&mport=20000-30000#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23649%20t.me%2Frjsxrd
@@ -38,8 +43,4 @@ hysteria2://00094b43-04c7-464b-a3d0-72da5fe0e68b@177.3.252.187:443?sni=quattro-v
 hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?sni=171.22.183.158&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?sni=171.22.183.158&auth=04920673-035c-410d-94e4-5b1469d3fb6f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
-hysteria2://e2552c42-fdf8-45d4-9be5-98819dcd0211@194.93.61.120:443?sni=nether.cxhub.su#🇳🇱 Нидерланды 19 FORESTSNET LTD%20t.me%2Frjsxrd
-hy2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23216%20t.me%2Frjsxrd
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?insecure=0&sni=bl1.nexfile.net#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%23195%20t.me%2Frjsxrd
-hysteria2://e2552c42-fdf8-45d4-9be5-98819dcd0211@193.233.130.66:443?sni=app.vles.space#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 
